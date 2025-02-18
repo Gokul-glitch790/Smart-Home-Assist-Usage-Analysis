@@ -1,0 +1,1001 @@
+Device Name,Device Type,Energy Consumption (kWh),Date Range,Country,User Demographics: Age,User Demographics: Gender,Usage Frequency (per week/month),Device Brand,Average Duration of Use (Hours),Cost Savings (in $),Power Source,Internet Connectivity Status
+Smart Light Bulb,Health Monitoring,2.80,31-07-2021,Japan,34,Woman,7 per week,SunTrack,15.80,$41.32 ,Battery,Intermittent
+Smart Plug,Water Conservation,9.00,26-02-2023,Canada,21,Prefer not to say,5 per week,SunTrack,10.60,$41.92 ,Grid,Disconnected
+Security Camera,Security,19.70,14-09-2020,Germany,50,Man,7 per week,EcoHome,4.90,$17.67 ,Grid,Intermittent
+Smart Light Bulb,Water Conservation,18.60,28-10-2023,Japan,33,Man,3 per week,EcoHome,9.20,$25.77 ,Solar,Offline Mode
+Smart Light Bulb,Water Conservation,1.90,13-02-2020,Australia,48,Prefer not to say,10 per month,CoolTech,9.10,$18.23 ,Solar,Disconnected
+Smart Refrigerator,Entertainment,4.30,24-04-2022,Japan,28,Non-binary,5 per week,SoundWave,17.70,$2.21 ,Battery,Offline Mode
+Smart Speaker,Smart Appliances,10.90,27-11-2023,South Africa,39,Man,10 per month,RingSecure,7.20,$7.26 ,Battery,Offline Mode
+Video Doorbell,Entertainment,4.20,07-10-2022,Canada,55,Man,7 per week,CoolTech,6.40,$23.96 ,Battery,Low Bandwidth
+Video Doorbell,Smart Appliances,1.40,14-11-2023,Mexico,45,Prefer not to say,15 per month,RingSecure,12.80,$41.22 ,Battery,Connected
+Solar Panel Monitor,Smart Appliances,1.90,07-11-2024,Canada,23,Prefer not to say,7 per week,SoundWave,9.30,$25.20 ,Solar,Connected
+Solar Panel Monitor,Entertainment,20.90,16-10-2022,Canada,22,Prefer not to say,15 per month,SafeGuard,15.20,$34.80 ,Grid,Disconnected
+Smart Refrigerator,Climate Control,18.30,07-06-2023,France,41,Prefer not to say,10 per month,SunTrack,22.40,$35.34 ,Battery,Offline Mode
+Home Assistant Hub,Fitness Monitoring,14.10,23-02-2023,Australia,45,Non-binary,3 per week,CoolTech,8.40,$38.11 ,Solar,Offline Mode
+Smart Speaker,Fitness Monitoring,8.40,01-07-2021,India,34,Man,7 per week,SoundWave,14.00,$48.71 ,Grid,Disconnected
+Smart Refrigerator,Energy-saving,2.50,13-10-2024,South Africa,31,Man,7 per week,SafeGuard,2.40,$5.46 ,Battery,Disconnected
+Video Doorbell,Smart Appliances,18.70,14-04-2023,Australia,21,Prefer not to say,3 per week,RingSecure,23.10,$40.18 ,Grid,Offline Mode
+Smart Refrigerator,Entertainment,8.00,15-04-2021,USA,29,Woman,10 per month,SmartLiving,21.20,$37.76 ,Battery,Connected
+Smart Light Bulb,Water Conservation,2.20,24-06-2022,France,31,Non-binary,10 per month,RingSecure,17.10,$30.25 ,Solar,Intermittent
+Smart Refrigerator,Entertainment,22.20,11-01-2024,Mexico,60,Woman,3 per week,SunTrack,3.50,$24.49 ,Grid,Low Bandwidth
+Smart TV,Water Conservation,15.10,14-02-2024,Canada,18,Woman,5 per week,CoolTech,19.40,$44.00 ,Grid,Intermittent
+Smart Thermostat,Health Monitoring,1.30,15-12-2022,USA,21,Man,7 per week,ViewMax,11.70,$30.30 ,Battery,Low Bandwidth
+Smart TV,Climate Control,10.80,24-03-2023,Mexico,25,Non-binary,10 per month,SafeGuard,19.60,$49.97 ,Grid,Connected
+Smart Refrigerator,Smart Appliances,20.30,18-07-2020,Brazil,42,Prefer not to say,7 per week,ViewMax,1.60,$43.66 ,Solar,Connected
+Security Camera,Health Monitoring,1.60,09-08-2023,Mexico,21,Man,3 per week,SoundWave,13.20,$35.90 ,Grid,Disconnected
+Video Doorbell,Water Conservation,15.40,18-06-2023,Brazil,31,Non-binary,10 per month,BrightLife,18.40,$39.38 ,Grid,Intermittent
+Smart TV,Fitness Monitoring,8.80,27-05-2021,India,57,Prefer not to say,3 per week,ViewMax,4.60,$38.67 ,Solar,Intermittent
+Smart Plug,Energy-saving,1.30,20-01-2023,Germany,44,Man,7 per week,ViewMax,5.90,$30.01 ,Battery,Offline Mode
+Smart Light Bulb,Water Conservation,10.40,25-01-2020,Australia,48,Woman,10 per month,RingSecure,1.90,$8.64 ,Battery,Offline Mode
+Smart Plug,Water Conservation,18.60,16-06-2022,Japan,60,Man,15 per month,EcoHome,4.30,$36.83 ,Solar,Low Bandwidth
+Smart Thermostat,Water Conservation,4.10,07-11-2024,Brazil,53,Woman,7 per week,EcoHome,2.40,$12.76 ,Solar,Offline Mode
+Security Camera,Climate Control,3.50,24-03-2023,Japan,59,Woman,15 per month,SoundWave,18.90,$8.84 ,Solar,Offline Mode
+Smart TV,Smart Appliances,7.30,08-11-2022,France,28,Man,10 per month,SafeGuard,3.70,$42.78 ,Solar,Offline Mode
+Smart Speaker,Energy-saving,5.30,07-06-2024,South Africa,45,Non-binary,7 per week,ViewMax,14.00,$4.16 ,Grid,Disconnected
+Smart Light Bulb,Climate Control,20.40,18-02-2024,France,62,Prefer not to say,15 per month,SunTrack,20.60,$30.91 ,Grid,Connected
+Smart Speaker,Entertainment,15.40,04-04-2020,Brazil,42,Man,10 per month,CoolTech,7.40,$35.51 ,Grid,Low Bandwidth
+Smart Light Bulb,Smart Appliances,10.90,25-07-2020,USA,63,Woman,7 per week,BrightLife,2.20,$11.19 ,Grid,Disconnected
+Home Assistant Hub,Water Conservation,4.50,04-12-2023,Germany,58,Prefer not to say,7 per week,SmartLiving,16.90,$44.07 ,Solar,Intermittent
+Smart Speaker,Health Monitoring,18.40,13-12-2021,Japan,32,Woman,10 per month,CoolTech,23.80,$6.05 ,Battery,Low Bandwidth
+Home Assistant Hub,Smart Appliances,7.60,25-10-2021,Australia,30,Prefer not to say,3 per week,SoundWave,12.40,$10.02 ,Grid,Offline Mode
+Video Doorbell,Health Monitoring,16.90,18-08-2022,India,28,Non-binary,15 per month,SunTrack,17.70,$34.67 ,Solar,Offline Mode
+Smart TV,Entertainment,6.70,12-07-2024,Germany,25,Non-binary,5 per week,BrightLife,10.60,$47.69 ,Solar,Intermittent
+Smart Speaker,Health Monitoring,19.80,13-04-2024,France,55,Woman,5 per week,CoolTech,20.50,$9.01 ,Solar,Offline Mode
+Smart TV,Fitness Monitoring,8.90,20-10-2021,France,41,Woman,3 per week,RingSecure,5.20,$26.64 ,Solar,Low Bandwidth
+Smart Refrigerator,Entertainment,19.70,09-03-2021,USA,59,Non-binary,7 per week,SmartLiving,1.60,$4.93 ,Solar,Disconnected
+Smart Light Bulb,Security,11.80,26-01-2023,Canada,38,Non-binary,3 per week,SafeGuard,11.40,$18.52 ,Solar,Connected
+Video Doorbell,Climate Control,22.90,20-10-2021,Germany,32,Man,7 per week,SmartLiving,23.70,$8.77 ,Grid,Connected
+Security Camera,Health Monitoring,16.30,26-06-2022,Brazil,35,Woman,15 per month,EcoHome,22.30,$37.69 ,Solar,Low Bandwidth
+Security Camera,Energy-saving,24.10,09-07-2022,India,49,Woman,5 per week,RingSecure,6.50,$18.22 ,Solar,Connected
+Security Camera,Climate Control,10.40,21-01-2022,Canada,59,Non-binary,5 per week,PlugWise,21.80,$34.56 ,Battery,Intermittent
+Smart TV,Climate Control,2.40,10-11-2020,South Africa,52,Man,3 per week,SoundWave,18.70,$9.01 ,Battery,Offline Mode
+Security Camera,Energy-saving,3.40,03-05-2022,Brazil,45,Man,3 per week,SoundWave,9.10,$48.14 ,Grid,Intermittent
+Smart Speaker,Climate Control,18.80,18-06-2020,Japan,28,Prefer not to say,10 per month,RingSecure,15.60,$27.44 ,Battery,Intermittent
+Smart Refrigerator,Health Monitoring,11.00,10-06-2024,Canada,39,Woman,15 per month,CoolTech,18.90,$19.34 ,Solar,Disconnected
+Smart Plug,Energy-saving,1.20,07-01-2024,Germany,20,Prefer not to say,3 per week,SafeGuard,7.80,$34.92 ,Solar,Disconnected
+Video Doorbell,Smart Appliances,21.40,21-10-2020,USA,31,Prefer not to say,5 per week,SunTrack,8.80,$46.11 ,Grid,Disconnected
+Smart Refrigerator,Entertainment,19.30,15-06-2022,Brazil,45,Non-binary,10 per month,SmartLiving,13.40,$16.17 ,Grid,Low Bandwidth
+Smart Speaker,Smart Appliances,16.20,16-07-2022,USA,49,Non-binary,5 per week,PlugWise,14.40,$28.71 ,Battery,Offline Mode
+Smart TV,Water Conservation,16.90,29-09-2023,Canada,27,Prefer not to say,5 per week,SmartLiving,23.30,$45.54 ,Grid,Intermittent
+Smart Speaker,Energy-saving,14.00,17-12-2023,Mexico,29,Prefer not to say,15 per month,BrightLife,17.70,$31.94 ,Battery,Connected
+Smart Speaker,Smart Appliances,6.20,29-07-2020,Brazil,46,Woman,7 per week,SmartLiving,4.50,$38.21 ,Solar,Low Bandwidth
+Smart Refrigerator,Fitness Monitoring,21.50,16-01-2021,France,48,Man,15 per month,ViewMax,16.00,$8.34 ,Solar,Connected
+Solar Panel Monitor,Energy-saving,16.60,05-01-2021,India,54,Man,7 per week,BrightLife,16.60,$5.41 ,Solar,Low Bandwidth
+Smart Plug,Smart Appliances,21.60,03-12-2021,South Africa,53,Man,5 per week,RingSecure,1.40,$24.26 ,Grid,Low Bandwidth
+Smart Speaker,Entertainment,19.60,19-09-2021,Brazil,33,Woman,3 per week,EcoHome,8.60,$43.34 ,Battery,Intermittent
+Smart Speaker,Climate Control,9.30,06-09-2020,Australia,61,Prefer not to say,15 per month,CoolTech,6.30,$24.85 ,Battery,Intermittent
+Smart Speaker,Energy-saving,24.00,04-10-2020,Germany,34,Man,10 per month,ViewMax,9.50,$33.37 ,Grid,Connected
+Smart Plug,Energy-saving,18.10,02-11-2021,Mexico,58,Non-binary,5 per week,CoolTech,23.90,$28.99 ,Grid,Offline Mode
+Smart Refrigerator,Water Conservation,12.10,29-05-2024,France,50,Man,5 per week,SunTrack,1.50,$2.85 ,Solar,Offline Mode
+Smart Speaker,Health Monitoring,12.30,31-07-2020,Germany,33,Man,10 per month,PlugWise,1.10,$4.66 ,Solar,Offline Mode
+Smart Light Bulb,Security,15.50,13-12-2020,Brazil,55,Man,10 per month,SmartLiving,23.90,$18.24 ,Solar,Disconnected
+Smart Plug,Entertainment,21.50,28-03-2022,Brazil,32,Prefer not to say,10 per month,ViewMax,19.90,$19.88 ,Battery,Offline Mode
+Video Doorbell,Security,9.00,10-03-2024,Japan,36,Man,5 per week,CoolTech,15.50,$48.95 ,Battery,Intermittent
+Smart Plug,Water Conservation,7.10,07-09-2022,South Africa,63,Prefer not to say,5 per week,BrightLife,15.20,$16.36 ,Battery,Disconnected
+Smart TV,Security,7.70,05-04-2021,India,55,Woman,15 per month,ViewMax,6.70,$28.80 ,Grid,Connected
+Home Assistant Hub,Smart Appliances,13.50,10-06-2020,USA,63,Man,10 per month,SoundWave,12.60,$7.10 ,Solar,Intermittent
+Home Assistant Hub,Health Monitoring,11.80,22-01-2020,Germany,55,Man,10 per month,BrightLife,20.90,$47.63 ,Grid,Intermittent
+Home Assistant Hub,Smart Appliances,13.10,01-11-2021,Germany,47,Woman,10 per month,SafeGuard,6.30,$14.63 ,Battery,Intermittent
+Smart Refrigerator,Smart Appliances,23.40,21-06-2020,Mexico,51,Non-binary,3 per week,SmartLiving,11.80,$18.29 ,Grid,Disconnected
+Solar Panel Monitor,Entertainment,4.10,08-07-2020,South Africa,60,Non-binary,7 per week,RingSecure,16.40,$45.51 ,Grid,Disconnected
+Smart TV,Water Conservation,3.10,13-05-2022,Mexico,59,Woman,5 per week,PlugWise,21.30,$42.64 ,Battery,Offline Mode
+Smart Refrigerator,Health Monitoring,20.30,11-06-2023,Japan,31,Prefer not to say,15 per month,ViewMax,8.60,$14.86 ,Battery,Intermittent
+Video Doorbell,Energy-saving,17.80,16-02-2024,Australia,18,Non-binary,5 per week,RingSecure,0.70,$8.00 ,Solar,Offline Mode
+Smart Thermostat,Health Monitoring,15.60,16-07-2021,Canada,50,Man,3 per week,SmartLiving,20.20,$35.96 ,Solar,Intermittent
+Smart Light Bulb,Energy-saving,21.30,18-10-2024,USA,31,Non-binary,5 per week,BrightLife,11.00,$39.93 ,Solar,Offline Mode
+Smart Refrigerator,Smart Appliances,0.70,02-02-2020,Germany,27,Woman,7 per week,PlugWise,4.50,$7.98 ,Grid,Offline Mode
+Smart Speaker,Smart Appliances,9.70,08-10-2021,Australia,40,Non-binary,5 per week,SunTrack,14.40,$29.06 ,Solar,Offline Mode
+Smart Speaker,Energy-saving,19.20,18-03-2021,France,59,Non-binary,5 per week,SunTrack,17.80,$47.45 ,Grid,Connected
+Smart TV,Smart Appliances,4.60,28-12-2020,Australia,20,Woman,5 per week,EcoHome,17.50,$2.57 ,Battery,Disconnected
+Smart Speaker,Climate Control,14.00,14-11-2023,USA,32,Non-binary,10 per month,PlugWise,18.50,$11.10 ,Grid,Connected
+Smart Refrigerator,Fitness Monitoring,14.00,29-12-2024,Mexico,24,Non-binary,10 per month,SoundWave,18.70,$33.16 ,Grid,Disconnected
+Home Assistant Hub,Smart Appliances,5.70,27-09-2020,South Africa,42,Woman,7 per week,SmartLiving,21.90,$48.56 ,Grid,Intermittent
+Smart TV,Entertainment,5.50,24-01-2024,Australia,59,Man,15 per month,ViewMax,1.60,$40.45 ,Battery,Low Bandwidth
+Smart Light Bulb,Fitness Monitoring,17.40,01-05-2024,Canada,62,Woman,5 per week,ViewMax,20.50,$45.58 ,Battery,Disconnected
+Smart TV,Security,3.30,22-11-2020,Japan,18,Woman,15 per month,CoolTech,15.50,$18.75 ,Battery,Disconnected
+Video Doorbell,Climate Control,6.40,20-02-2020,Japan,31,Prefer not to say,5 per week,SunTrack,20.60,$49.32 ,Grid,Intermittent
+Video Doorbell,Climate Control,15.00,12-08-2020,South Africa,34,Man,5 per week,PlugWise,5.40,$37.26 ,Solar,Offline Mode
+Smart TV,Energy-saving,11.10,21-12-2022,Australia,48,Prefer not to say,15 per month,SunTrack,0.80,$6.56 ,Grid,Low Bandwidth
+Smart Refrigerator,Fitness Monitoring,18.10,03-04-2023,India,56,Non-binary,7 per week,CoolTech,12.00,$41.89 ,Battery,Connected
+Smart Thermostat,Entertainment,17.80,12-08-2021,South Africa,59,Man,15 per month,RingSecure,20.30,$22.50 ,Grid,Intermittent
+Smart Refrigerator,Health Monitoring,0.60,13-05-2020,Germany,60,Woman,15 per month,RingSecure,16.20,$9.70 ,Solar,Connected
+Smart Speaker,Fitness Monitoring,1.70,19-02-2024,Germany,19,Man,5 per week,EcoHome,3.60,$9.60 ,Battery,Disconnected
+Smart Speaker,Energy-saving,19.90,14-02-2023,Mexico,65,Non-binary,3 per week,BrightLife,13.50,$45.23 ,Solar,Low Bandwidth
+Home Assistant Hub,Health Monitoring,6.80,01-12-2024,Mexico,32,Woman,15 per month,SunTrack,23.10,$36.55 ,Grid,Disconnected
+Smart Thermostat,Water Conservation,19.90,20-05-2023,Brazil,26,Woman,7 per week,ViewMax,9.20,$12.27 ,Solar,Intermittent
+Smart TV,Energy-saving,11.70,22-08-2023,Canada,21,Prefer not to say,3 per week,SoundWave,11.10,$37.37 ,Battery,Intermittent
+Home Assistant Hub,Entertainment,3.20,07-11-2022,France,48,Man,5 per week,PlugWise,11.90,$31.14 ,Grid,Connected
+Smart TV,Energy-saving,24.00,10-11-2023,USA,27,Non-binary,5 per week,SmartLiving,3.10,$39.42 ,Solar,Low Bandwidth
+Smart Refrigerator,Health Monitoring,18.60,12-12-2024,South Africa,24,Man,5 per week,EcoHome,1.00,$38.84 ,Grid,Disconnected
+Smart Thermostat,Health Monitoring,8.10,26-06-2023,Australia,42,Man,3 per week,ViewMax,12.20,$46.24 ,Grid,Disconnected
+Solar Panel Monitor,Water Conservation,11.10,11-11-2024,Brazil,20,Woman,10 per month,CoolTech,8.90,$26.35 ,Battery,Disconnected
+Smart Light Bulb,Energy-saving,10.70,25-10-2024,Australia,61,Non-binary,7 per week,CoolTech,22.10,$25.76 ,Grid,Disconnected
+Smart Speaker,Fitness Monitoring,1.20,16-07-2024,South Africa,40,Prefer not to say,10 per month,SoundWave,8.80,$3.34 ,Grid,Low Bandwidth
+Smart TV,Smart Appliances,16.20,31-12-2023,USA,26,Woman,15 per month,BrightLife,19.00,$5.10 ,Grid,Low Bandwidth
+Smart Thermostat,Entertainment,22.90,03-12-2021,Mexico,52,Woman,10 per month,EcoHome,3.40,$24.11 ,Solar,Connected
+Video Doorbell,Climate Control,1.40,28-12-2022,India,28,Prefer not to say,7 per week,SafeGuard,11.80,$9.79 ,Grid,Connected
+Smart Light Bulb,Energy-saving,19.40,27-02-2021,Brazil,53,Woman,5 per week,SunTrack,7.80,$6.54 ,Battery,Low Bandwidth
+Solar Panel Monitor,Climate Control,23.60,24-05-2022,India,36,Non-binary,5 per week,ViewMax,8.60,$16.44 ,Grid,Offline Mode
+Smart Thermostat,Entertainment,14.90,01-01-2022,France,35,Non-binary,5 per week,RingSecure,5.40,$6.02 ,Solar,Disconnected
+Smart TV,Climate Control,11.10,28-03-2024,Mexico,31,Non-binary,3 per week,SunTrack,5.60,$48.47 ,Battery,Intermittent
+Smart Light Bulb,Security,1.20,01-07-2020,USA,40,Non-binary,5 per week,RingSecure,0.80,$47.07 ,Solar,Connected
+Security Camera,Smart Appliances,22.70,14-01-2021,Japan,34,Woman,15 per month,SoundWave,15.80,$47.37 ,Solar,Disconnected
+Smart Refrigerator,Health Monitoring,9.30,03-05-2020,Australia,25,Woman,7 per week,PlugWise,4.70,$2.45 ,Grid,Connected
+Smart TV,Health Monitoring,12.90,12-05-2021,Mexico,57,Prefer not to say,7 per week,SoundWave,7.60,$39.57 ,Solar,Intermittent
+Video Doorbell,Entertainment,10.50,25-11-2024,Brazil,24,Man,15 per month,EcoHome,3.60,$20.40 ,Grid,Disconnected
+Security Camera,Water Conservation,16.50,19-04-2020,Mexico,43,Non-binary,3 per week,SafeGuard,2.70,$18.37 ,Battery,Connected
+Security Camera,Entertainment,11.20,18-05-2021,Australia,56,Woman,7 per week,RingSecure,10.50,$3.22 ,Grid,Offline Mode
+Solar Panel Monitor,Health Monitoring,18.00,16-11-2020,Australia,40,Non-binary,3 per week,RingSecure,12.70,$49.49 ,Solar,Low Bandwidth
+Smart TV,Smart Appliances,2.70,04-11-2021,Japan,41,Man,15 per month,EcoHome,11.70,$34.67 ,Solar,Connected
+Smart Refrigerator,Fitness Monitoring,12.70,06-04-2020,Germany,62,Man,15 per month,SmartLiving,17.60,$11.61 ,Battery,Intermittent
+Video Doorbell,Energy-saving,20.60,20-03-2021,USA,44,Prefer not to say,7 per week,ViewMax,22.90,$42.05 ,Solar,Disconnected
+Smart Speaker,Water Conservation,1.30,10-03-2020,Mexico,65,Man,15 per month,BrightLife,8.00,$40.17 ,Solar,Disconnected
+Solar Panel Monitor,Security,7.70,06-11-2022,Brazil,36,Woman,10 per month,EcoHome,6.60,$31.09 ,Grid,Intermittent
+Smart Plug,Climate Control,20.90,28-01-2021,France,65,Non-binary,5 per week,SunTrack,8.40,$49.14 ,Solar,Connected
+Smart Thermostat,Smart Appliances,9.40,10-05-2024,Germany,39,Man,3 per week,EcoHome,3.20,$43.45 ,Battery,Low Bandwidth
+Smart Thermostat,Health Monitoring,9.90,11-04-2022,Brazil,62,Prefer not to say,7 per week,SunTrack,2.60,$28.32 ,Grid,Offline Mode
+Solar Panel Monitor,Smart Appliances,3.20,08-07-2023,France,54,Woman,10 per month,EcoHome,3.00,$3.51 ,Battery,Disconnected
+Smart Speaker,Smart Appliances,17.90,31-08-2022,Australia,41,Man,15 per month,CoolTech,19.80,$10.18 ,Solar,Offline Mode
+Home Assistant Hub,Fitness Monitoring,13.60,24-05-2024,Germany,51,Woman,3 per week,EcoHome,19.50,$12.10 ,Battery,Intermittent
+Smart Plug,Fitness Monitoring,16.80,04-07-2022,Mexico,32,Woman,10 per month,BrightLife,22.50,$42.13 ,Grid,Disconnected
+Home Assistant Hub,Fitness Monitoring,13.80,02-09-2022,Mexico,25,Prefer not to say,15 per month,PlugWise,12.10,$36.44 ,Battery,Low Bandwidth
+Smart Thermostat,Energy-saving,16.40,04-05-2021,Canada,20,Woman,10 per month,BrightLife,20.30,$35.70 ,Battery,Intermittent
+Video Doorbell,Water Conservation,1.80,11-09-2022,Brazil,51,Non-binary,3 per week,PlugWise,8.90,$47.68 ,Battery,Disconnected
+Smart Refrigerator,Entertainment,10.90,29-05-2020,France,35,Non-binary,10 per month,SoundWave,18.90,$23.35 ,Solar,Connected
+Smart Thermostat,Fitness Monitoring,3.80,21-11-2020,South Africa,21,Prefer not to say,7 per week,CoolTech,6.10,$10.98 ,Grid,Connected
+Smart TV,Health Monitoring,20.60,17-03-2020,Canada,56,Prefer not to say,5 per week,SafeGuard,15.00,$20.06 ,Grid,Disconnected
+Home Assistant Hub,Water Conservation,1.40,01-04-2024,Australia,47,Man,5 per week,SunTrack,4.20,$49.69 ,Battery,Connected
+Smart Plug,Energy-saving,12.40,26-12-2022,USA,62,Woman,5 per week,ViewMax,17.40,$41.76 ,Grid,Disconnected
+Smart Light Bulb,Security,7.60,25-06-2023,India,29,Man,15 per month,ViewMax,10.30,$27.48 ,Grid,Offline Mode
+Solar Panel Monitor,Fitness Monitoring,0.70,03-06-2023,Australia,62,Woman,15 per month,SmartLiving,21.60,$19.01 ,Battery,Intermittent
+Smart Thermostat,Climate Control,19.50,08-01-2024,Germany,26,Prefer not to say,10 per month,SunTrack,14.20,$2.29 ,Grid,Low Bandwidth
+Video Doorbell,Health Monitoring,20.20,26-01-2021,France,49,Prefer not to say,5 per week,RingSecure,3.70,$21.70 ,Grid,Low Bandwidth
+Smart Speaker,Water Conservation,6.50,04-10-2024,India,18,Prefer not to say,5 per week,ViewMax,4.40,$40.22 ,Solar,Disconnected
+Smart Refrigerator,Health Monitoring,19.00,02-08-2023,India,21,Man,5 per week,SunTrack,5.20,$39.38 ,Grid,Disconnected
+Smart TV,Water Conservation,13.90,11-09-2023,Brazil,31,Man,5 per week,SunTrack,14.40,$16.76 ,Battery,Intermittent
+Security Camera,Fitness Monitoring,4.50,11-04-2024,Germany,38,Woman,5 per week,SoundWave,21.10,$16.84 ,Grid,Offline Mode
+Video Doorbell,Entertainment,24.10,20-03-2023,USA,23,Man,3 per week,SmartLiving,23.40,$4.97 ,Grid,Connected
+Smart Light Bulb,Water Conservation,17.60,27-07-2022,South Africa,18,Prefer not to say,5 per week,CoolTech,17.80,$37.48 ,Solar,Offline Mode
+Smart Refrigerator,Energy-saving,5.80,08-12-2024,France,43,Man,7 per week,RingSecure,9.20,$19.35 ,Solar,Offline Mode
+Smart Refrigerator,Water Conservation,1.20,19-02-2020,Germany,62,Prefer not to say,15 per month,SunTrack,3.20,$15.13 ,Battery,Disconnected
+Smart Light Bulb,Security,6.10,05-04-2021,Australia,53,Non-binary,3 per week,RingSecure,6.90,$26.21 ,Solar,Offline Mode
+Security Camera,Energy-saving,11.40,05-02-2024,South Africa,37,Non-binary,3 per week,BrightLife,8.70,$25.59 ,Battery,Offline Mode
+Smart Speaker,Entertainment,11.80,26-09-2021,France,54,Prefer not to say,15 per month,BrightLife,3.50,$49.91 ,Grid,Intermittent
+Smart Thermostat,Fitness Monitoring,11.30,06-12-2022,USA,18,Non-binary,7 per week,ViewMax,12.20,$49.40 ,Grid,Offline Mode
+Security Camera,Energy-saving,14.00,02-09-2022,Mexico,23,Man,10 per month,ViewMax,15.10,$39.24 ,Battery,Disconnected
+Smart Refrigerator,Entertainment,7.40,22-05-2022,Australia,46,Prefer not to say,10 per month,RingSecure,18.10,$20.46 ,Battery,Intermittent
+Security Camera,Security,3.60,08-02-2021,Germany,60,Prefer not to say,7 per week,ViewMax,23.70,$5.80 ,Battery,Low Bandwidth
+Smart Speaker,Energy-saving,7.30,15-11-2024,Canada,65,Man,10 per month,PlugWise,11.20,$10.21 ,Solar,Intermittent
+Smart Plug,Health Monitoring,7.80,06-10-2022,India,41,Non-binary,3 per week,BrightLife,9.70,$11.31 ,Solar,Low Bandwidth
+Smart Speaker,Energy-saving,13.70,25-09-2021,Canada,48,Woman,7 per week,PlugWise,22.60,$34.68 ,Grid,Connected
+Smart TV,Smart Appliances,2.70,27-07-2020,Germany,20,Non-binary,10 per month,SunTrack,0.60,$2.75 ,Solar,Offline Mode
+Smart TV,Smart Appliances,23.70,03-10-2021,Germany,40,Woman,5 per week,EcoHome,9.90,$27.65 ,Battery,Intermittent
+Smart Refrigerator,Smart Appliances,19.10,15-09-2021,South Africa,61,Prefer not to say,10 per month,CoolTech,4.70,$40.41 ,Grid,Disconnected
+Smart Speaker,Health Monitoring,15.70,21-01-2021,USA,59,Non-binary,3 per week,SafeGuard,0.90,$5.64 ,Solar,Offline Mode
+Video Doorbell,Water Conservation,6.10,23-08-2022,Australia,62,Non-binary,7 per week,SmartLiving,8.00,$24.60 ,Grid,Intermittent
+Smart Thermostat,Security,12.80,21-09-2023,India,29,Man,3 per week,SafeGuard,7.00,$4.14 ,Grid,Offline Mode
+Smart Speaker,Climate Control,6.60,21-06-2022,Japan,65,Non-binary,3 per week,BrightLife,3.20,$32.05 ,Grid,Offline Mode
+Smart Speaker,Entertainment,15.30,08-11-2022,Germany,36,Woman,7 per week,BrightLife,14.10,$2.49 ,Solar,Connected
+Solar Panel Monitor,Smart Appliances,3.00,14-09-2020,Canada,35,Woman,15 per month,EcoHome,0.50,$20.37 ,Battery,Low Bandwidth
+Smart TV,Fitness Monitoring,12.40,15-11-2023,South Africa,31,Prefer not to say,5 per week,SafeGuard,3.40,$34.32 ,Grid,Disconnected
+Smart Light Bulb,Security,16.60,21-01-2021,Mexico,39,Woman,10 per month,SafeGuard,21.70,$36.74 ,Solar,Low Bandwidth
+Smart Speaker,Health Monitoring,12.80,03-02-2021,Germany,32,Prefer not to say,10 per month,SmartLiving,20.10,$45.32 ,Grid,Intermittent
+Smart TV,Entertainment,8.80,06-08-2022,Canada,51,Woman,5 per week,SoundWave,1.70,$38.18 ,Battery,Intermittent
+Security Camera,Energy-saving,9.20,26-02-2023,France,55,Prefer not to say,5 per week,SafeGuard,22.50,$19.36 ,Solar,Offline Mode
+Solar Panel Monitor,Security,5.10,19-03-2020,Germany,62,Man,5 per week,SoundWave,22.20,$36.74 ,Solar,Connected
+Smart Speaker,Entertainment,10.70,05-04-2021,Mexico,60,Man,15 per month,SafeGuard,18.40,$6.22 ,Battery,Low Bandwidth
+Smart TV,Health Monitoring,8.80,27-01-2020,Germany,40,Non-binary,3 per week,SoundWave,12.40,$42.89 ,Solar,Intermittent
+Home Assistant Hub,Security,8.60,21-11-2022,Japan,64,Man,5 per week,EcoHome,8.30,$14.04 ,Solar,Offline Mode
+Smart Refrigerator,Health Monitoring,3.30,08-05-2021,Australia,33,Man,10 per month,SafeGuard,15.20,$37.43 ,Solar,Low Bandwidth
+Smart Speaker,Water Conservation,17.70,26-02-2021,Australia,52,Man,5 per week,SunTrack,19.80,$3.15 ,Grid,Low Bandwidth
+Video Doorbell,Smart Appliances,18.80,13-05-2022,Mexico,44,Prefer not to say,7 per week,RingSecure,5.10,$5.59 ,Grid,Disconnected
+Video Doorbell,Entertainment,2.80,16-01-2021,Japan,58,Prefer not to say,10 per month,SoundWave,17.60,$20.07 ,Grid,Disconnected
+Home Assistant Hub,Entertainment,4.70,15-09-2021,Brazil,46,Man,15 per month,PlugWise,10.70,$38.69 ,Battery,Connected
+Smart Speaker,Climate Control,8.50,10-10-2020,Australia,40,Non-binary,3 per week,SmartLiving,8.80,$13.99 ,Battery,Connected
+Solar Panel Monitor,Fitness Monitoring,10.40,12-05-2020,Japan,34,Prefer not to say,15 per month,BrightLife,14.80,$49.70 ,Grid,Low Bandwidth
+Home Assistant Hub,Climate Control,18.60,24-07-2021,Mexico,26,Woman,3 per week,SmartLiving,6.40,$18.50 ,Grid,Connected
+Smart Thermostat,Energy-saving,6.30,23-10-2023,South Africa,30,Man,5 per week,PlugWise,0.90,$27.13 ,Solar,Connected
+Smart Speaker,Fitness Monitoring,17.50,01-03-2023,Australia,33,Woman,10 per month,SoundWave,19.00,$2.02 ,Grid,Intermittent
+Smart TV,Health Monitoring,12.50,22-07-2021,USA,60,Woman,3 per week,EcoHome,19.50,$20.81 ,Battery,Disconnected
+Solar Panel Monitor,Security,20.10,13-03-2023,Japan,35,Prefer not to say,3 per week,SafeGuard,1.50,$30.84 ,Grid,Disconnected
+Smart Light Bulb,Security,1.30,08-11-2023,USA,28,Man,15 per month,PlugWise,22.50,$28.10 ,Solar,Offline Mode
+Security Camera,Fitness Monitoring,3.10,22-05-2022,France,65,Non-binary,5 per week,RingSecure,1.70,$10.51 ,Solar,Intermittent
+Smart Plug,Entertainment,12.40,19-09-2024,Brazil,57,Prefer not to say,7 per week,CoolTech,5.70,$23.50 ,Battery,Intermittent
+Smart Thermostat,Climate Control,11.90,11-01-2023,South Africa,32,Prefer not to say,10 per month,RingSecure,14.20,$30.62 ,Battery,Disconnected
+Smart TV,Fitness Monitoring,20.40,13-09-2024,Australia,37,Prefer not to say,7 per week,BrightLife,2.10,$5.68 ,Grid,Low Bandwidth
+Video Doorbell,Fitness Monitoring,2.90,17-04-2024,Germany,40,Prefer not to say,10 per month,SafeGuard,22.10,$19.03 ,Solar,Offline Mode
+Smart Refrigerator,Climate Control,11.60,22-02-2022,Japan,38,Non-binary,15 per month,SafeGuard,9.90,$44.38 ,Grid,Connected
+Smart TV,Energy-saving,4.30,28-02-2022,India,29,Man,3 per week,ViewMax,23.60,$12.07 ,Solar,Low Bandwidth
+Home Assistant Hub,Water Conservation,15.10,22-01-2023,USA,46,Prefer not to say,10 per month,BrightLife,18.20,$27.10 ,Solar,Low Bandwidth
+Smart Plug,Health Monitoring,7.90,05-05-2022,USA,46,Man,5 per week,SmartLiving,5.50,$19.46 ,Battery,Connected
+Smart Light Bulb,Climate Control,15.70,26-05-2020,South Africa,33,Man,15 per month,SunTrack,11.50,$12.18 ,Solar,Disconnected
+Home Assistant Hub,Smart Appliances,5.00,03-04-2023,India,30,Woman,3 per week,SoundWave,21.50,$17.05 ,Battery,Low Bandwidth
+Solar Panel Monitor,Health Monitoring,21.10,03-02-2024,Germany,55,Prefer not to say,3 per week,CoolTech,13.00,$21.49 ,Grid,Disconnected
+Smart Plug,Entertainment,7.50,26-05-2022,France,24,Non-binary,15 per month,ViewMax,7.90,$48.73 ,Grid,Low Bandwidth
+Smart Thermostat,Entertainment,23.80,29-03-2024,Germany,20,Prefer not to say,3 per week,PlugWise,4.40,$17.02 ,Battery,Disconnected
+Security Camera,Water Conservation,4.00,28-06-2023,Brazil,24,Prefer not to say,5 per week,SoundWave,8.50,$16.59 ,Battery,Disconnected
+Video Doorbell,Energy-saving,6.80,17-11-2023,South Africa,36,Woman,10 per month,SafeGuard,11.00,$24.81 ,Grid,Intermittent
+Smart Thermostat,Energy-saving,20.70,20-02-2023,India,21,Prefer not to say,7 per week,SoundWave,18.80,$37.76 ,Grid,Connected
+Home Assistant Hub,Entertainment,10.10,12-03-2024,South Africa,33,Woman,3 per week,PlugWise,10.10,$7.62 ,Battery,Disconnected
+Solar Panel Monitor,Smart Appliances,5.40,03-02-2022,France,31,Woman,5 per week,RingSecure,4.50,$40.25 ,Solar,Disconnected
+Security Camera,Climate Control,8.80,30-01-2022,USA,36,Man,10 per month,SunTrack,11.80,$28.13 ,Grid,Offline Mode
+Video Doorbell,Climate Control,16.90,27-11-2022,Mexico,31,Prefer not to say,3 per week,EcoHome,21.60,$16.06 ,Grid,Connected
+Smart TV,Water Conservation,10.10,17-12-2021,India,60,Woman,5 per week,SmartLiving,14.70,$20.90 ,Grid,Low Bandwidth
+Smart Light Bulb,Climate Control,19.50,10-11-2024,Brazil,55,Man,3 per week,ViewMax,8.10,$12.96 ,Battery,Connected
+Smart TV,Energy-saving,8.30,14-04-2023,Canada,54,Non-binary,5 per week,BrightLife,1.60,$36.97 ,Battery,Disconnected
+Smart TV,Fitness Monitoring,23.60,26-02-2024,India,27,Woman,7 per week,ViewMax,7.90,$42.64 ,Solar,Disconnected
+Smart TV,Water Conservation,9.90,14-07-2024,France,44,Non-binary,7 per week,SunTrack,14.20,$23.42 ,Solar,Intermittent
+Home Assistant Hub,Climate Control,21.90,12-04-2020,Mexico,52,Man,7 per week,SunTrack,10.50,$34.27 ,Solar,Offline Mode
+Solar Panel Monitor,Security,16.50,07-01-2021,Canada,54,Prefer not to say,15 per month,EcoHome,2.60,$4.97 ,Solar,Connected
+Solar Panel Monitor,Climate Control,20.10,13-12-2021,Japan,30,Man,7 per week,EcoHome,10.30,$4.44 ,Battery,Disconnected
+Video Doorbell,Security,19.40,24-11-2021,Mexico,45,Woman,3 per week,SafeGuard,14.20,$41.10 ,Battery,Low Bandwidth
+Smart Speaker,Water Conservation,1.60,24-11-2022,Canada,18,Non-binary,3 per week,SmartLiving,18.30,$35.98 ,Solar,Low Bandwidth
+Smart Refrigerator,Energy-saving,14.50,29-06-2020,Brazil,30,Man,5 per week,ViewMax,12.20,$14.26 ,Grid,Intermittent
+Smart Refrigerator,Water Conservation,13.00,19-07-2022,France,27,Man,15 per month,CoolTech,5.50,$43.39 ,Solar,Connected
+Security Camera,Entertainment,5.40,13-11-2021,USA,33,Woman,5 per week,CoolTech,18.50,$13.04 ,Grid,Disconnected
+Smart Light Bulb,Water Conservation,4.40,25-01-2021,Mexico,55,Non-binary,3 per week,SunTrack,14.10,$2.38 ,Grid,Disconnected
+Smart TV,Energy-saving,18.20,23-01-2021,Japan,24,Non-binary,10 per month,SafeGuard,1.60,$29.11 ,Grid,Disconnected
+Smart TV,Security,6.10,09-12-2021,South Africa,65,Man,10 per month,ViewMax,12.30,$25.50 ,Battery,Intermittent
+Security Camera,Water Conservation,16.90,04-06-2024,South Africa,25,Man,15 per month,SunTrack,13.30,$17.77 ,Grid,Connected
+Smart TV,Health Monitoring,18.70,31-08-2022,Canada,40,Non-binary,3 per week,SunTrack,15.20,$21.03 ,Grid,Intermittent
+Smart TV,Energy-saving,6.20,22-02-2023,France,19,Woman,7 per week,EcoHome,16.40,$34.90 ,Grid,Intermittent
+Smart Light Bulb,Entertainment,24.00,26-02-2023,South Africa,61,Woman,5 per week,EcoHome,17.90,$13.45 ,Battery,Disconnected
+Video Doorbell,Entertainment,8.20,25-10-2023,Japan,33,Man,7 per week,CoolTech,1.90,$24.74 ,Battery,Disconnected
+Security Camera,Climate Control,12.60,05-05-2021,USA,59,Man,7 per week,RingSecure,4.00,$35.47 ,Battery,Connected
+Smart TV,Health Monitoring,23.60,02-04-2022,Brazil,32,Woman,5 per week,SafeGuard,21.20,$42.75 ,Solar,Intermittent
+Smart Plug,Fitness Monitoring,10.10,27-07-2021,Canada,46,Man,15 per month,CoolTech,11.30,$14.81 ,Solar,Connected
+Smart Speaker,Fitness Monitoring,21.90,03-12-2022,Germany,29,Non-binary,7 per week,EcoHome,5.80,$14.25 ,Battery,Disconnected
+Smart Light Bulb,Entertainment,21.90,26-05-2023,Brazil,39,Woman,3 per week,BrightLife,11.20,$32.39 ,Solar,Intermittent
+Home Assistant Hub,Energy-saving,14.90,30-11-2022,Canada,48,Woman,7 per week,SafeGuard,14.30,$19.61 ,Grid,Disconnected
+Smart Speaker,Energy-saving,13.00,05-07-2020,Canada,49,Prefer not to say,15 per month,RingSecure,21.20,$9.87 ,Battery,Disconnected
+Home Assistant Hub,Entertainment,23.30,25-12-2024,Brazil,56,Non-binary,3 per week,SafeGuard,12.90,$47.01 ,Solar,Connected
+Smart Speaker,Energy-saving,16.20,07-01-2024,Germany,60,Man,3 per week,RingSecure,6.10,$37.50 ,Grid,Intermittent
+Smart Refrigerator,Smart Appliances,23.00,18-12-2022,Australia,24,Man,10 per month,PlugWise,2.80,$36.52 ,Battery,Disconnected
+Security Camera,Water Conservation,17.60,22-10-2020,Germany,56,Woman,15 per month,CoolTech,16.70,$42.32 ,Solar,Intermittent
+Video Doorbell,Fitness Monitoring,24.20,02-09-2021,Japan,30,Non-binary,3 per week,PlugWise,4.80,$47.83 ,Grid,Offline Mode
+Smart Thermostat,Health Monitoring,17.40,01-10-2023,Australia,54,Non-binary,15 per month,SunTrack,14.30,$18.52 ,Grid,Low Bandwidth
+Smart Thermostat,Smart Appliances,11.30,06-05-2022,USA,50,Prefer not to say,3 per week,RingSecure,23.30,$10.45 ,Battery,Connected
+Smart Speaker,Smart Appliances,9.10,31-08-2022,Mexico,46,Non-binary,10 per month,RingSecure,11.60,$45.66 ,Grid,Disconnected
+Smart Thermostat,Entertainment,14.30,19-12-2020,Brazil,57,Prefer not to say,10 per month,BrightLife,1.60,$27.77 ,Grid,Offline Mode
+Smart Speaker,Fitness Monitoring,7.00,11-11-2020,Brazil,47,Woman,5 per week,PlugWise,3.90,$40.28 ,Grid,Intermittent
+Smart Thermostat,Climate Control,25.00,30-11-2021,India,39,Woman,7 per week,SafeGuard,1.00,$10.71 ,Grid,Offline Mode
+Smart Thermostat,Energy-saving,16.40,29-05-2024,France,63,Man,5 per week,SafeGuard,21.90,$8.74 ,Battery,Intermittent
+Security Camera,Energy-saving,24.90,18-01-2022,Brazil,62,Prefer not to say,15 per month,ViewMax,8.00,$4.74 ,Solar,Disconnected
+Smart Light Bulb,Climate Control,19.30,29-04-2023,Australia,55,Man,3 per week,CoolTech,17.50,$37.70 ,Battery,Offline Mode
+Home Assistant Hub,Water Conservation,3.30,11-10-2022,France,57,Non-binary,5 per week,SoundWave,23.70,$24.76 ,Battery,Offline Mode
+Home Assistant Hub,Fitness Monitoring,4.60,26-05-2023,Canada,22,Woman,3 per week,EcoHome,6.80,$40.51 ,Battery,Offline Mode
+Smart Light Bulb,Energy-saving,15.50,19-08-2020,Germany,21,Non-binary,10 per month,RingSecure,2.30,$20.24 ,Solar,Connected
+Smart Speaker,Entertainment,5.00,06-05-2023,Japan,42,Woman,5 per week,SafeGuard,21.70,$20.47 ,Grid,Connected
+Smart Light Bulb,Entertainment,12.80,17-09-2024,Japan,18,Man,5 per week,ViewMax,4.10,$18.76 ,Grid,Low Bandwidth
+Smart Speaker,Smart Appliances,17.40,20-06-2024,Japan,46,Prefer not to say,10 per month,PlugWise,13.50,$22.21 ,Battery,Disconnected
+Smart Light Bulb,Energy-saving,15.20,05-07-2022,India,26,Non-binary,10 per month,PlugWise,17.50,$14.50 ,Solar,Disconnected
+Smart Refrigerator,Water Conservation,3.50,28-06-2021,USA,22,Prefer not to say,3 per week,RingSecure,2.00,$48.18 ,Battery,Offline Mode
+Smart Refrigerator,Fitness Monitoring,4.40,25-08-2023,Japan,47,Prefer not to say,7 per week,EcoHome,13.90,$6.16 ,Solar,Offline Mode
+Home Assistant Hub,Energy-saving,23.10,19-02-2023,USA,37,Man,3 per week,SmartLiving,14.40,$49.49 ,Grid,Intermittent
+Smart Refrigerator,Health Monitoring,6.00,14-10-2021,Japan,19,Prefer not to say,10 per month,BrightLife,3.30,$15.41 ,Solar,Connected
+Smart Light Bulb,Smart Appliances,1.30,24-09-2022,South Africa,50,Non-binary,15 per month,PlugWise,10.40,$6.88 ,Battery,Low Bandwidth
+Smart Speaker,Health Monitoring,11.20,26-01-2022,Brazil,40,Prefer not to say,3 per week,PlugWise,15.60,$37.89 ,Grid,Connected
+Security Camera,Climate Control,23.20,11-12-2021,Brazil,34,Non-binary,5 per week,CoolTech,11.40,$36.74 ,Grid,Connected
+Home Assistant Hub,Fitness Monitoring,9.30,14-03-2024,Brazil,37,Man,5 per week,SmartLiving,9.10,$37.95 ,Battery,Intermittent
+Smart TV,Energy-saving,15.90,01-10-2023,Mexico,54,Non-binary,10 per month,ViewMax,11.80,$9.79 ,Battery,Offline Mode
+Video Doorbell,Climate Control,4.30,21-03-2023,Japan,39,Man,7 per week,EcoHome,19.00,$49.73 ,Solar,Offline Mode
+Smart Light Bulb,Health Monitoring,20.60,15-10-2023,France,46,Woman,15 per month,SoundWave,7.30,$23.49 ,Grid,Intermittent
+Home Assistant Hub,Health Monitoring,8.00,02-09-2021,USA,22,Non-binary,7 per week,SunTrack,19.20,$36.29 ,Grid,Connected
+Video Doorbell,Energy-saving,7.10,08-10-2024,Germany,52,Prefer not to say,10 per month,RingSecure,17.60,$37.70 ,Solar,Intermittent
+Smart Thermostat,Energy-saving,2.70,05-03-2020,USA,65,Prefer not to say,10 per month,PlugWise,3.50,$30.12 ,Battery,Low Bandwidth
+Smart Speaker,Security,1.30,31-08-2024,Germany,18,Non-binary,7 per week,EcoHome,9.90,$31.76 ,Solar,Low Bandwidth
+Smart TV,Energy-saving,16.50,13-06-2022,Canada,37,Woman,3 per week,SoundWave,1.80,$10.97 ,Grid,Intermittent
+Smart Light Bulb,Energy-saving,8.50,22-10-2020,France,40,Woman,5 per week,SoundWave,1.30,$11.74 ,Grid,Offline Mode
+Smart Light Bulb,Entertainment,2.50,11-10-2023,Japan,27,Prefer not to say,3 per week,PlugWise,11.00,$32.24 ,Grid,Intermittent
+Smart Light Bulb,Smart Appliances,23.60,19-07-2024,India,64,Woman,10 per month,RingSecure,1.40,$11.66 ,Grid,Disconnected
+Solar Panel Monitor,Smart Appliances,21.60,09-04-2022,USA,47,Non-binary,7 per week,SmartLiving,13.80,$11.39 ,Solar,Disconnected
+Solar Panel Monitor,Security,21.30,27-06-2021,USA,24,Non-binary,15 per month,EcoHome,19.70,$30.63 ,Grid,Intermittent
+Home Assistant Hub,Health Monitoring,18.60,24-06-2024,Brazil,29,Non-binary,7 per week,SoundWave,18.50,$6.40 ,Solar,Intermittent
+Smart TV,Fitness Monitoring,5.30,09-01-2024,Canada,30,Non-binary,15 per month,RingSecure,22.00,$28.48 ,Grid,Offline Mode
+Smart Speaker,Climate Control,9.50,29-09-2020,Japan,42,Prefer not to say,10 per month,BrightLife,19.00,$34.30 ,Battery,Intermittent
+Smart Speaker,Entertainment,1.60,17-01-2023,South Africa,65,Woman,5 per week,CoolTech,16.90,$43.02 ,Solar,Connected
+Smart Light Bulb,Security,12.50,13-04-2020,India,50,Woman,10 per month,PlugWise,8.10,$12.54 ,Grid,Connected
+Smart Light Bulb,Fitness Monitoring,18.40,03-10-2023,South Africa,41,Non-binary,3 per week,PlugWise,17.50,$32.55 ,Solar,Disconnected
+Smart Plug,Security,12.70,15-10-2021,Australia,41,Prefer not to say,3 per week,SafeGuard,12.50,$35.78 ,Solar,Low Bandwidth
+Video Doorbell,Climate Control,4.00,02-07-2020,Canada,45,Prefer not to say,15 per month,ViewMax,15.60,$9.77 ,Grid,Intermittent
+Video Doorbell,Water Conservation,5.90,12-12-2022,Japan,37,Man,10 per month,RingSecure,2.40,$44.88 ,Battery,Connected
+Video Doorbell,Health Monitoring,0.50,28-02-2022,Germany,23,Prefer not to say,7 per week,SoundWave,4.70,$10.42 ,Battery,Intermittent
+Smart Speaker,Health Monitoring,7.60,05-10-2022,Germany,42,Man,3 per week,SafeGuard,13.20,$9.30 ,Battery,Connected
+Video Doorbell,Fitness Monitoring,5.30,20-05-2021,Mexico,56,Man,3 per week,EcoHome,6.80,$20.16 ,Solar,Disconnected
+Smart Light Bulb,Water Conservation,18.60,20-06-2021,Mexico,41,Prefer not to say,10 per month,SmartLiving,15.30,$4.55 ,Solar,Disconnected
+Smart Speaker,Entertainment,15.90,07-09-2023,Mexico,56,Woman,15 per month,RingSecure,14.90,$31.77 ,Grid,Connected
+Security Camera,Health Monitoring,23.60,11-04-2022,India,38,Man,5 per week,CoolTech,3.80,$36.99 ,Battery,Intermittent
+Smart Thermostat,Fitness Monitoring,10.70,20-09-2024,USA,28,Non-binary,7 per week,BrightLife,5.80,$6.80 ,Grid,Low Bandwidth
+Video Doorbell,Climate Control,24.10,29-05-2024,Mexico,29,Non-binary,5 per week,CoolTech,12.60,$3.35 ,Solar,Offline Mode
+Smart Light Bulb,Water Conservation,7.90,23-10-2020,Canada,59,Man,5 per week,ViewMax,9.50,$13.08 ,Solar,Offline Mode
+Smart Refrigerator,Climate Control,13.60,29-08-2021,Canada,65,Woman,10 per month,SoundWave,2.20,$24.48 ,Solar,Intermittent
+Home Assistant Hub,Entertainment,17.00,26-09-2022,Canada,23,Man,5 per week,ViewMax,6.80,$48.39 ,Solar,Disconnected
+Home Assistant Hub,Smart Appliances,23.40,11-10-2022,Mexico,20,Non-binary,15 per month,SoundWave,20.70,$46.36 ,Solar,Intermittent
+Smart Light Bulb,Energy-saving,4.40,22-08-2021,India,33,Man,15 per month,CoolTech,4.60,$24.36 ,Solar,Offline Mode
+Security Camera,Energy-saving,4.60,15-11-2020,Brazil,45,Woman,3 per week,RingSecure,9.10,$42.31 ,Grid,Intermittent
+Smart Plug,Climate Control,20.30,28-04-2023,Australia,54,Prefer not to say,7 per week,BrightLife,8.00,$48.07 ,Battery,Low Bandwidth
+Smart Speaker,Health Monitoring,4.30,25-05-2023,Canada,46,Man,3 per week,SunTrack,6.90,$8.52 ,Battery,Disconnected
+Smart Light Bulb,Energy-saving,1.10,12-07-2022,India,25,Man,10 per month,PlugWise,15.30,$38.38 ,Battery,Low Bandwidth
+Smart Light Bulb,Fitness Monitoring,14.10,25-09-2021,India,18,Man,7 per week,PlugWise,20.30,$44.45 ,Battery,Disconnected
+Smart Plug,Water Conservation,11.70,23-07-2024,South Africa,62,Prefer not to say,15 per month,RingSecure,19.40,$20.02 ,Solar,Disconnected
+Video Doorbell,Fitness Monitoring,24.40,27-07-2023,Australia,62,Prefer not to say,15 per month,PlugWise,17.90,$38.31 ,Solar,Offline Mode
+Smart Thermostat,Smart Appliances,16.40,26-12-2021,Australia,38,Non-binary,15 per month,ViewMax,23.20,$8.43 ,Battery,Connected
+Solar Panel Monitor,Climate Control,5.90,22-01-2021,France,35,Man,5 per week,SmartLiving,11.10,$42.89 ,Grid,Intermittent
+Smart Speaker,Water Conservation,1.70,11-06-2022,Germany,63,Woman,10 per month,PlugWise,12.10,$34.53 ,Grid,Intermittent
+Smart Thermostat,Fitness Monitoring,21.30,05-06-2024,Mexico,22,Non-binary,15 per month,SmartLiving,1.60,$27.28 ,Solar,Offline Mode
+Video Doorbell,Health Monitoring,4.00,11-07-2022,Mexico,51,Man,15 per month,SafeGuard,14.60,$21.79 ,Grid,Offline Mode
+Home Assistant Hub,Water Conservation,9.30,25-02-2020,Japan,54,Man,7 per week,EcoHome,22.80,$46.29 ,Grid,Intermittent
+Solar Panel Monitor,Smart Appliances,4.50,19-04-2023,South Africa,61,Prefer not to say,15 per month,RingSecure,11.20,$9.90 ,Solar,Intermittent
+Security Camera,Climate Control,10.00,03-09-2022,USA,28,Woman,5 per week,SunTrack,15.90,$37.05 ,Battery,Disconnected
+Security Camera,Health Monitoring,13.60,14-10-2020,France,28,Non-binary,10 per month,CoolTech,5.60,$15.40 ,Solar,Connected
+Home Assistant Hub,Smart Appliances,6.40,07-10-2024,Brazil,56,Man,3 per week,SafeGuard,5.10,$33.61 ,Battery,Disconnected
+Smart Plug,Energy-saving,1.20,14-03-2021,Germany,38,Man,5 per week,SunTrack,3.60,$15.96 ,Grid,Offline Mode
+Home Assistant Hub,Security,19.90,17-03-2021,South Africa,53,Man,7 per week,EcoHome,18.00,$32.51 ,Solar,Low Bandwidth
+Smart Refrigerator,Health Monitoring,18.20,30-08-2024,USA,19,Man,10 per month,RingSecure,17.00,$7.69 ,Battery,Disconnected
+Smart Speaker,Security,17.30,07-03-2021,India,26,Man,10 per month,EcoHome,8.50,$14.95 ,Grid,Low Bandwidth
+Video Doorbell,Security,2.90,17-10-2023,USA,44,Man,5 per week,PlugWise,2.30,$5.61 ,Solar,Intermittent
+Smart Refrigerator,Energy-saving,20.50,08-08-2022,France,35,Man,7 per week,SafeGuard,8.70,$39.74 ,Grid,Low Bandwidth
+Smart Speaker,Climate Control,5.30,20-09-2023,Australia,36,Man,5 per week,SafeGuard,4.00,$13.02 ,Battery,Disconnected
+Smart Thermostat,Security,15.00,29-04-2023,Mexico,47,Prefer not to say,10 per month,EcoHome,18.00,$42.51 ,Battery,Intermittent
+Home Assistant Hub,Health Monitoring,3.50,04-08-2022,Brazil,39,Woman,15 per month,ViewMax,19.60,$14.97 ,Grid,Offline Mode
+Solar Panel Monitor,Security,22.60,10-09-2021,France,57,Man,15 per month,PlugWise,8.70,$5.84 ,Battery,Disconnected
+Smart TV,Health Monitoring,9.20,07-01-2022,Brazil,59,Prefer not to say,5 per week,SunTrack,19.30,$19.72 ,Grid,Offline Mode
+Smart Light Bulb,Energy-saving,21.20,05-02-2020,India,62,Prefer not to say,3 per week,CoolTech,14.60,$42.61 ,Battery,Disconnected
+Home Assistant Hub,Energy-saving,6.80,18-03-2023,USA,33,Woman,3 per week,SafeGuard,5.80,$25.41 ,Grid,Disconnected
+Video Doorbell,Water Conservation,10.20,25-06-2021,USA,30,Man,10 per month,SafeGuard,7.00,$12.35 ,Battery,Connected
+Smart Refrigerator,Entertainment,2.90,06-04-2021,Japan,29,Man,10 per month,SafeGuard,4.60,$40.59 ,Battery,Intermittent
+Home Assistant Hub,Health Monitoring,23.50,05-05-2020,Canada,51,Woman,10 per month,SunTrack,12.70,$46.13 ,Grid,Intermittent
+Solar Panel Monitor,Fitness Monitoring,7.60,30-11-2022,Mexico,65,Non-binary,10 per month,SoundWave,1.60,$16.99 ,Battery,Connected
+Smart Thermostat,Entertainment,24.90,18-10-2023,South Africa,42,Prefer not to say,10 per month,EcoHome,15.90,$30.77 ,Grid,Disconnected
+Smart Plug,Water Conservation,20.00,20-09-2021,Australia,49,Prefer not to say,5 per week,SoundWave,18.30,$42.44 ,Grid,Offline Mode
+Solar Panel Monitor,Water Conservation,21.20,27-11-2021,USA,46,Man,15 per month,PlugWise,7.90,$42.02 ,Battery,Low Bandwidth
+Smart Speaker,Smart Appliances,6.50,25-10-2021,Brazil,54,Woman,15 per month,SunTrack,7.50,$22.83 ,Battery,Disconnected
+Smart Light Bulb,Energy-saving,20.20,04-03-2023,India,64,Man,7 per week,SmartLiving,18.40,$22.04 ,Grid,Disconnected
+Smart Plug,Smart Appliances,20.00,07-04-2023,Canada,39,Non-binary,5 per week,SoundWave,17.20,$33.87 ,Grid,Offline Mode
+Home Assistant Hub,Security,10.70,06-09-2022,Australia,22,Man,5 per week,PlugWise,14.20,$36.31 ,Battery,Connected
+Smart Refrigerator,Smart Appliances,24.70,18-07-2024,South Africa,26,Woman,15 per month,SmartLiving,10.40,$44.15 ,Solar,Low Bandwidth
+Smart Speaker,Health Monitoring,10.60,10-12-2024,India,59,Woman,7 per week,BrightLife,22.60,$24.72 ,Grid,Connected
+Smart Light Bulb,Climate Control,21.40,26-11-2020,Australia,29,Non-binary,15 per month,SafeGuard,5.00,$4.16 ,Solar,Connected
+Smart Refrigerator,Fitness Monitoring,20.80,14-06-2023,Germany,22,Prefer not to say,15 per month,ViewMax,7.50,$40.18 ,Battery,Intermittent
+Video Doorbell,Smart Appliances,19.50,11-12-2020,Germany,28,Prefer not to say,3 per week,ViewMax,19.70,$24.80 ,Battery,Intermittent
+Video Doorbell,Smart Appliances,2.50,16-08-2021,France,27,Prefer not to say,15 per month,SafeGuard,11.10,$16.85 ,Battery,Offline Mode
+Security Camera,Health Monitoring,20.20,22-12-2022,Brazil,57,Man,3 per week,CoolTech,4.20,$28.45 ,Battery,Low Bandwidth
+Smart TV,Security,2.80,19-01-2022,South Africa,47,Woman,5 per week,SunTrack,2.70,$44.24 ,Grid,Low Bandwidth
+Solar Panel Monitor,Climate Control,3.70,12-08-2021,South Africa,56,Prefer not to say,5 per week,BrightLife,19.40,$24.82 ,Grid,Connected
+Smart TV,Fitness Monitoring,18.20,25-10-2024,Canada,36,Woman,5 per week,SunTrack,4.00,$8.82 ,Grid,Low Bandwidth
+Smart Speaker,Entertainment,3.50,30-07-2020,Germany,47,Non-binary,3 per week,BrightLife,11.20,$48.26 ,Grid,Offline Mode
+Security Camera,Water Conservation,6.00,03-04-2021,USA,43,Prefer not to say,5 per week,EcoHome,0.90,$49.03 ,Grid,Low Bandwidth
+Smart Refrigerator,Security,22.40,14-12-2024,Germany,37,Non-binary,10 per month,SoundWave,6.50,$19.10 ,Solar,Intermittent
+Video Doorbell,Water Conservation,11.60,03-11-2023,Australia,41,Woman,5 per week,PlugWise,6.50,$30.44 ,Grid,Low Bandwidth
+Smart TV,Entertainment,22.90,15-10-2021,Australia,23,Man,7 per week,ViewMax,3.20,$13.77 ,Battery,Connected
+Smart Refrigerator,Water Conservation,23.90,07-05-2024,Germany,23,Non-binary,3 per week,SunTrack,9.70,$11.11 ,Solar,Low Bandwidth
+Home Assistant Hub,Health Monitoring,7.70,03-03-2020,South Africa,40,Non-binary,7 per week,BrightLife,13.90,$37.24 ,Solar,Offline Mode
+Home Assistant Hub,Fitness Monitoring,23.00,06-10-2022,Australia,19,Woman,3 per week,ViewMax,10.50,$16.87 ,Solar,Disconnected
+Home Assistant Hub,Security,13.40,18-03-2020,South Africa,22,Non-binary,3 per week,SunTrack,4.90,$36.80 ,Battery,Disconnected
+Smart Refrigerator,Fitness Monitoring,5.80,08-10-2021,France,40,Prefer not to say,15 per month,PlugWise,0.60,$34.28 ,Solar,Low Bandwidth
+Video Doorbell,Fitness Monitoring,24.30,25-04-2023,Canada,22,Non-binary,15 per month,SoundWave,21.30,$34.55 ,Battery,Intermittent
+Solar Panel Monitor,Fitness Monitoring,2.90,04-10-2023,USA,38,Non-binary,3 per week,RingSecure,10.60,$23.13 ,Battery,Connected
+Smart Plug,Fitness Monitoring,4.40,15-05-2022,France,37,Woman,7 per week,BrightLife,1.90,$15.62 ,Solar,Disconnected
+Smart Plug,Security,8.30,16-11-2022,Mexico,53,Man,5 per week,RingSecure,6.30,$46.27 ,Battery,Connected
+Solar Panel Monitor,Water Conservation,8.90,11-08-2023,Japan,27,Man,3 per week,SafeGuard,21.50,$43.39 ,Battery,Connected
+Smart TV,Security,13.20,17-03-2021,Germany,52,Man,3 per week,SunTrack,9.50,$36.89 ,Solar,Disconnected
+Smart Light Bulb,Water Conservation,10.30,16-05-2021,Japan,61,Prefer not to say,10 per month,RingSecure,11.70,$35.18 ,Grid,Low Bandwidth
+Solar Panel Monitor,Climate Control,11.10,14-01-2022,South Africa,21,Non-binary,10 per month,RingSecure,8.60,$29.21 ,Grid,Intermittent
+Home Assistant Hub,Security,15.30,17-07-2022,Brazil,48,Woman,5 per week,ViewMax,10.00,$37.99 ,Grid,Offline Mode
+Smart Light Bulb,Water Conservation,14.50,09-05-2020,Brazil,33,Prefer not to say,10 per month,PlugWise,7.80,$13.86 ,Grid,Connected
+Home Assistant Hub,Security,3.60,31-10-2024,Germany,40,Prefer not to say,10 per month,ViewMax,22.20,$17.11 ,Battery,Low Bandwidth
+Smart Thermostat,Entertainment,16.20,25-11-2024,Japan,32,Man,7 per week,SoundWave,17.50,$21.16 ,Battery,Disconnected
+Smart Thermostat,Energy-saving,9.60,10-05-2021,France,52,Non-binary,15 per month,EcoHome,18.60,$9.65 ,Battery,Offline Mode
+Smart Light Bulb,Climate Control,6.10,12-11-2023,Australia,29,Man,10 per month,CoolTech,19.30,$42.27 ,Solar,Offline Mode
+Smart Refrigerator,Climate Control,3.50,06-04-2023,USA,22,Man,7 per week,CoolTech,23.30,$5.15 ,Solar,Offline Mode
+Smart Refrigerator,Water Conservation,21.80,31-10-2023,France,63,Non-binary,15 per month,BrightLife,14.80,$29.72 ,Solar,Connected
+Video Doorbell,Climate Control,11.00,12-10-2020,France,46,Man,15 per month,SafeGuard,3.60,$15.12 ,Solar,Offline Mode
+Smart Plug,Smart Appliances,4.20,02-04-2023,India,55,Non-binary,15 per month,SmartLiving,15.00,$5.43 ,Grid,Intermittent
+Video Doorbell,Energy-saving,18.30,14-02-2020,France,37,Woman,5 per week,PlugWise,10.70,$42.38 ,Battery,Intermittent
+Smart Refrigerator,Entertainment,14.50,17-12-2021,Australia,40,Prefer not to say,15 per month,SoundWave,13.70,$33.13 ,Solar,Intermittent
+Smart Plug,Fitness Monitoring,2.00,12-09-2024,Japan,31,Woman,3 per week,BrightLife,0.70,$40.65 ,Battery,Intermittent
+Smart Speaker,Fitness Monitoring,14.30,06-06-2021,Japan,45,Non-binary,5 per week,EcoHome,17.90,$26.20 ,Solar,Disconnected
+Smart Thermostat,Entertainment,15.90,01-02-2022,Brazil,51,Prefer not to say,7 per week,SunTrack,3.10,$14.77 ,Battery,Offline Mode
+Security Camera,Security,16.30,13-10-2024,France,61,Woman,3 per week,CoolTech,18.70,$16.75 ,Solar,Intermittent
+Smart Plug,Entertainment,3.40,26-02-2022,Japan,23,Man,15 per month,SafeGuard,4.50,$6.01 ,Solar,Intermittent
+Security Camera,Smart Appliances,9.70,05-03-2020,Japan,21,Man,3 per week,BrightLife,21.50,$28.28 ,Grid,Connected
+Home Assistant Hub,Water Conservation,5.80,28-12-2020,Canada,32,Woman,10 per month,SmartLiving,10.10,$48.95 ,Grid,Offline Mode
+Video Doorbell,Fitness Monitoring,23.50,16-11-2023,France,41,Prefer not to say,5 per week,SunTrack,15.70,$13.27 ,Solar,Disconnected
+Security Camera,Health Monitoring,19.90,16-09-2022,Canada,43,Prefer not to say,5 per week,CoolTech,18.40,$25.39 ,Battery,Disconnected
+Home Assistant Hub,Fitness Monitoring,13.40,10-11-2023,Japan,53,Woman,15 per month,RingSecure,6.50,$3.81 ,Battery,Low Bandwidth
+Solar Panel Monitor,Entertainment,10.30,07-01-2022,Brazil,38,Prefer not to say,15 per month,CoolTech,22.90,$46.08 ,Grid,Low Bandwidth
+Home Assistant Hub,Fitness Monitoring,6.30,02-06-2021,Australia,58,Non-binary,7 per week,CoolTech,9.70,$46.81 ,Solar,Offline Mode
+Smart Speaker,Smart Appliances,0.90,28-08-2021,Mexico,44,Prefer not to say,15 per month,SafeGuard,18.20,$37.68 ,Grid,Low Bandwidth
+Video Doorbell,Water Conservation,11.90,01-12-2020,South Africa,41,Man,15 per month,RingSecure,14.60,$23.46 ,Battery,Connected
+Solar Panel Monitor,Smart Appliances,16.00,07-03-2024,USA,24,Prefer not to say,7 per week,PlugWise,12.50,$10.40 ,Grid,Offline Mode
+Smart Light Bulb,Entertainment,20.50,03-11-2024,Brazil,62,Woman,5 per week,SunTrack,11.40,$36.09 ,Grid,Connected
+Home Assistant Hub,Smart Appliances,8.40,11-06-2023,Canada,47,Man,3 per week,PlugWise,11.90,$16.68 ,Battery,Connected
+Video Doorbell,Fitness Monitoring,1.10,04-08-2023,Brazil,59,Prefer not to say,7 per week,SunTrack,0.80,$34.24 ,Solar,Low Bandwidth
+Smart Thermostat,Security,23.40,11-04-2020,France,46,Woman,15 per month,EcoHome,3.00,$40.93 ,Grid,Disconnected
+Smart Speaker,Energy-saving,21.40,10-04-2021,South Africa,64,Man,5 per week,ViewMax,8.60,$42.94 ,Battery,Offline Mode
+Smart Thermostat,Smart Appliances,3.80,18-11-2024,Canada,21,Prefer not to say,10 per month,RingSecure,23.40,$7.26 ,Battery,Intermittent
+Security Camera,Security,16.50,10-07-2021,France,25,Man,10 per month,SunTrack,18.40,$8.00 ,Solar,Low Bandwidth
+Video Doorbell,Health Monitoring,24.40,25-02-2022,Canada,27,Man,5 per week,SafeGuard,14.10,$29.25 ,Solar,Disconnected
+Smart Refrigerator,Entertainment,4.10,16-05-2021,Japan,32,Non-binary,15 per month,PlugWise,14.10,$19.73 ,Battery,Intermittent
+Smart Refrigerator,Fitness Monitoring,11.40,16-06-2023,Canada,27,Prefer not to say,10 per month,CoolTech,10.90,$24.84 ,Solar,Connected
+Smart Thermostat,Entertainment,1.00,14-06-2020,Germany,48,Woman,5 per week,RingSecure,13.50,$22.25 ,Battery,Offline Mode
+Video Doorbell,Water Conservation,10.70,04-07-2021,USA,47,Man,7 per week,PlugWise,21.90,$8.47 ,Solar,Low Bandwidth
+Smart Speaker,Entertainment,12.20,23-11-2020,Japan,21,Man,5 per week,ViewMax,17.80,$42.11 ,Solar,Low Bandwidth
+Video Doorbell,Energy-saving,13.30,15-06-2022,USA,24,Man,3 per week,CoolTech,19.40,$6.17 ,Solar,Offline Mode
+Smart Speaker,Security,16.20,23-11-2021,Brazil,24,Non-binary,5 per week,ViewMax,21.40,$18.24 ,Battery,Connected
+Home Assistant Hub,Climate Control,24.40,09-11-2021,Australia,28,Woman,7 per week,CoolTech,4.00,$29.80 ,Solar,Intermittent
+Solar Panel Monitor,Climate Control,13.80,18-02-2023,South Africa,30,Non-binary,10 per month,ViewMax,1.10,$37.03 ,Battery,Offline Mode
+Smart Thermostat,Entertainment,5.00,22-09-2022,Japan,47,Prefer not to say,10 per month,RingSecure,4.60,$28.52 ,Solar,Low Bandwidth
+Solar Panel Monitor,Smart Appliances,6.10,20-11-2022,USA,50,Woman,15 per month,PlugWise,14.20,$11.70 ,Grid,Low Bandwidth
+Video Doorbell,Entertainment,1.60,10-09-2022,Canada,31,Woman,7 per week,RingSecure,2.30,$30.32 ,Grid,Disconnected
+Smart Light Bulb,Fitness Monitoring,24.60,19-11-2024,Japan,34,Prefer not to say,3 per week,CoolTech,9.60,$20.33 ,Grid,Intermittent
+Solar Panel Monitor,Smart Appliances,18.30,03-07-2021,Brazil,23,Woman,15 per month,PlugWise,0.60,$3.89 ,Solar,Disconnected
+Smart Refrigerator,Water Conservation,6.20,04-10-2021,India,19,Prefer not to say,7 per week,SunTrack,15.50,$13.21 ,Grid,Connected
+Smart Speaker,Entertainment,8.20,02-10-2024,France,28,Man,15 per month,SunTrack,15.80,$19.06 ,Battery,Intermittent
+Smart TV,Security,7.10,01-12-2020,Germany,63,Prefer not to say,15 per month,PlugWise,17.30,$32.12 ,Solar,Intermittent
+Smart Refrigerator,Health Monitoring,22.80,04-08-2021,Japan,57,Man,3 per week,ViewMax,12.40,$10.39 ,Solar,Low Bandwidth
+Smart Speaker,Climate Control,16.40,18-03-2021,Germany,54,Non-binary,7 per week,RingSecure,17.80,$6.21 ,Grid,Disconnected
+Home Assistant Hub,Climate Control,9.80,30-06-2023,Australia,45,Man,3 per week,RingSecure,10.20,$11.85 ,Battery,Intermittent
+Solar Panel Monitor,Security,18.20,12-11-2023,Mexico,23,Woman,3 per week,EcoHome,10.50,$42.47 ,Solar,Low Bandwidth
+Smart Refrigerator,Energy-saving,13.10,02-03-2021,India,49,Woman,5 per week,EcoHome,12.50,$9.27 ,Grid,Disconnected
+Smart Speaker,Climate Control,1.50,12-05-2020,Canada,48,Non-binary,5 per week,PlugWise,19.50,$3.47 ,Battery,Connected
+Smart Thermostat,Health Monitoring,17.10,04-12-2022,France,22,Man,3 per week,SunTrack,22.00,$38.81 ,Battery,Offline Mode
+Smart Speaker,Health Monitoring,12.70,11-08-2023,Mexico,65,Non-binary,15 per month,PlugWise,5.00,$5.22 ,Solar,Connected
+Smart Light Bulb,Entertainment,2.40,25-11-2020,Mexico,26,Prefer not to say,5 per week,PlugWise,16.60,$40.98 ,Solar,Offline Mode
+Smart Light Bulb,Energy-saving,3.20,17-05-2021,Brazil,21,Woman,15 per month,SafeGuard,18.30,$37.57 ,Grid,Disconnected
+Smart Light Bulb,Climate Control,13.50,16-04-2024,Mexico,19,Woman,5 per week,PlugWise,3.50,$46.20 ,Battery,Intermittent
+Smart Plug,Health Monitoring,24.90,27-09-2020,India,35,Woman,7 per week,PlugWise,5.10,$48.57 ,Battery,Connected
+Smart Light Bulb,Smart Appliances,11.60,24-01-2024,France,44,Prefer not to say,3 per week,PlugWise,3.60,$47.00 ,Battery,Low Bandwidth
+Smart Plug,Water Conservation,19.90,22-11-2022,India,65,Woman,5 per week,EcoHome,12.80,$7.31 ,Solar,Offline Mode
+Smart Speaker,Water Conservation,16.30,15-08-2021,USA,35,Woman,5 per week,EcoHome,9.50,$49.68 ,Battery,Intermittent
+Smart Thermostat,Water Conservation,22.70,04-12-2021,India,52,Man,15 per month,ViewMax,8.80,$3.19 ,Solar,Low Bandwidth
+Smart Speaker,Health Monitoring,11.90,22-04-2021,India,52,Prefer not to say,7 per week,ViewMax,21.90,$6.63 ,Battery,Connected
+Smart Thermostat,Energy-saving,10.20,16-09-2023,Japan,35,Man,15 per month,SmartLiving,21.00,$33.49 ,Solar,Intermittent
+Smart Plug,Fitness Monitoring,10.80,11-09-2024,Germany,29,Man,15 per month,SafeGuard,5.00,$34.41 ,Grid,Disconnected
+Home Assistant Hub,Water Conservation,23.10,26-01-2022,Mexico,58,Prefer not to say,10 per month,ViewMax,2.50,$42.07 ,Grid,Offline Mode
+Video Doorbell,Fitness Monitoring,11.50,12-12-2020,India,34,Prefer not to say,7 per week,PlugWise,11.50,$43.82 ,Grid,Low Bandwidth
+Smart Speaker,Energy-saving,20.60,15-12-2020,Australia,21,Woman,5 per week,SunTrack,6.60,$33.75 ,Solar,Disconnected
+Smart Thermostat,Climate Control,6.70,30-03-2023,South Africa,37,Prefer not to say,15 per month,CoolTech,10.20,$23.67 ,Solar,Disconnected
+Home Assistant Hub,Energy-saving,3.00,24-08-2023,South Africa,24,Woman,3 per week,PlugWise,21.70,$43.27 ,Solar,Low Bandwidth
+Smart TV,Health Monitoring,4.40,20-11-2024,Canada,24,Non-binary,7 per week,ViewMax,21.20,$5.78 ,Battery,Low Bandwidth
+Home Assistant Hub,Smart Appliances,16.70,27-02-2020,Japan,21,Non-binary,5 per week,SmartLiving,15.30,$47.02 ,Solar,Offline Mode
+Smart Plug,Smart Appliances,4.40,23-11-2020,Mexico,51,Non-binary,3 per week,EcoHome,19.90,$29.03 ,Battery,Low Bandwidth
+Smart Plug,Entertainment,23.90,09-01-2021,Brazil,38,Prefer not to say,3 per week,RingSecure,15.50,$17.49 ,Solar,Intermittent
+Solar Panel Monitor,Climate Control,18.60,16-02-2020,Mexico,38,Non-binary,7 per week,ViewMax,9.20,$25.39 ,Solar,Connected
+Security Camera,Health Monitoring,5.90,10-03-2023,Brazil,46,Prefer not to say,10 per month,BrightLife,6.10,$9.65 ,Battery,Disconnected
+Smart Thermostat,Entertainment,20.20,18-06-2021,Canada,51,Man,15 per month,BrightLife,12.70,$12.52 ,Solar,Disconnected
+Smart Light Bulb,Smart Appliances,10.40,18-06-2020,Japan,33,Woman,3 per week,SmartLiving,10.00,$23.27 ,Grid,Intermittent
+Home Assistant Hub,Entertainment,8.80,02-09-2024,USA,49,Non-binary,7 per week,SmartLiving,14.10,$12.89 ,Solar,Intermittent
+Smart Light Bulb,Health Monitoring,6.30,05-12-2020,Canada,28,Prefer not to say,10 per month,SafeGuard,13.00,$11.19 ,Solar,Disconnected
+Smart Thermostat,Fitness Monitoring,13.30,18-02-2020,Australia,39,Prefer not to say,15 per month,SmartLiving,20.90,$19.83 ,Battery,Connected
+Security Camera,Fitness Monitoring,3.70,19-11-2020,USA,46,Woman,10 per month,SafeGuard,14.30,$16.55 ,Grid,Disconnected
+Video Doorbell,Health Monitoring,21.80,24-01-2022,France,26,Man,7 per week,SmartLiving,2.40,$14.60 ,Solar,Disconnected
+Security Camera,Health Monitoring,23.20,24-01-2020,South Africa,61,Man,5 per week,SoundWave,15.00,$29.62 ,Solar,Disconnected
+Smart Plug,Security,18.10,12-10-2023,India,48,Non-binary,7 per week,SunTrack,12.80,$3.91 ,Grid,Offline Mode
+Solar Panel Monitor,Smart Appliances,15.80,07-02-2022,Mexico,58,Prefer not to say,10 per month,RingSecure,8.80,$26.30 ,Battery,Disconnected
+Smart Plug,Health Monitoring,5.00,16-11-2022,Mexico,23,Prefer not to say,7 per week,SafeGuard,6.50,$37.43 ,Battery,Connected
+Smart Speaker,Entertainment,7.20,13-07-2020,Canada,49,Non-binary,15 per month,CoolTech,1.70,$7.51 ,Solar,Connected
+Smart Light Bulb,Health Monitoring,14.40,27-09-2023,Germany,53,Non-binary,5 per week,EcoHome,17.70,$46.00 ,Battery,Low Bandwidth
+Video Doorbell,Climate Control,14.80,24-06-2020,Australia,19,Non-binary,15 per month,CoolTech,23.10,$26.19 ,Grid,Intermittent
+Smart Plug,Health Monitoring,11.30,05-01-2022,India,18,Prefer not to say,3 per week,ViewMax,8.10,$13.44 ,Battery,Connected
+Smart Plug,Fitness Monitoring,22.00,04-12-2020,Australia,30,Non-binary,3 per week,SunTrack,17.90,$23.48 ,Solar,Offline Mode
+Security Camera,Health Monitoring,3.20,21-02-2022,Brazil,65,Non-binary,10 per month,SmartLiving,16.90,$27.38 ,Solar,Disconnected
+Security Camera,Climate Control,5.10,01-04-2022,France,59,Woman,10 per month,EcoHome,0.80,$28.24 ,Battery,Disconnected
+Security Camera,Climate Control,16.50,21-02-2024,Mexico,19,Woman,10 per month,CoolTech,22.50,$2.05 ,Grid,Disconnected
+Solar Panel Monitor,Water Conservation,19.60,12-07-2024,Japan,22,Woman,15 per month,RingSecure,15.80,$5.42 ,Solar,Low Bandwidth
+Home Assistant Hub,Climate Control,20.10,12-03-2022,Canada,30,Woman,7 per week,RingSecure,20.00,$36.33 ,Battery,Low Bandwidth
+Smart TV,Fitness Monitoring,22.20,14-05-2023,India,62,Woman,7 per week,SoundWave,2.70,$11.39 ,Solar,Intermittent
+Smart Plug,Security,17.90,22-06-2020,Japan,41,Prefer not to say,3 per week,SunTrack,16.90,$11.62 ,Battery,Offline Mode
+Smart Thermostat,Entertainment,20.90,28-12-2024,Australia,57,Woman,5 per week,EcoHome,6.70,$19.99 ,Solar,Intermittent
+Smart Speaker,Entertainment,9.50,22-04-2020,India,33,Prefer not to say,10 per month,ViewMax,19.90,$46.56 ,Battery,Disconnected
+Smart Refrigerator,Energy-saving,9.50,01-03-2022,Australia,60,Woman,5 per week,SafeGuard,21.80,$26.49 ,Grid,Offline Mode
+Smart Refrigerator,Security,3.30,10-05-2022,Japan,53,Woman,5 per week,PlugWise,3.00,$34.76 ,Grid,Offline Mode
+Smart Plug,Health Monitoring,16.80,12-03-2022,Canada,56,Non-binary,5 per week,PlugWise,10.00,$20.60 ,Grid,Disconnected
+Smart Light Bulb,Fitness Monitoring,1.10,01-06-2020,France,32,Non-binary,15 per month,RingSecure,21.00,$19.41 ,Solar,Intermittent
+Smart Speaker,Energy-saving,15.30,03-11-2022,Germany,57,Non-binary,3 per week,SafeGuard,4.20,$26.98 ,Solar,Offline Mode
+Smart Light Bulb,Smart Appliances,11.30,12-08-2021,France,36,Non-binary,7 per week,SafeGuard,4.30,$28.56 ,Solar,Disconnected
+Security Camera,Health Monitoring,1.10,29-07-2022,South Africa,40,Woman,15 per month,SafeGuard,19.90,$10.56 ,Solar,Connected
+Smart Refrigerator,Smart Appliances,21.90,24-02-2021,Japan,44,Prefer not to say,10 per month,ViewMax,6.50,$9.86 ,Solar,Offline Mode
+Smart Light Bulb,Smart Appliances,15.80,03-07-2020,Mexico,39,Prefer not to say,5 per week,SmartLiving,5.70,$17.10 ,Solar,Offline Mode
+Smart Thermostat,Health Monitoring,5.00,10-03-2020,Brazil,49,Woman,3 per week,SmartLiving,4.10,$37.65 ,Grid,Disconnected
+Video Doorbell,Climate Control,4.80,12-03-2020,Brazil,20,Prefer not to say,15 per month,EcoHome,0.70,$26.09 ,Battery,Intermittent
+Smart Refrigerator,Security,12.20,19-09-2023,Mexico,33,Prefer not to say,7 per week,BrightLife,22.20,$46.73 ,Solar,Disconnected
+Smart Plug,Security,16.30,15-07-2020,USA,28,Man,3 per week,SoundWave,9.60,$3.46 ,Grid,Intermittent
+Smart Plug,Entertainment,18.50,14-05-2020,India,35,Prefer not to say,5 per week,PlugWise,5.30,$29.50 ,Solar,Offline Mode
+Solar Panel Monitor,Entertainment,14.00,12-01-2021,Brazil,43,Prefer not to say,15 per month,ViewMax,23.70,$9.68 ,Grid,Low Bandwidth
+Smart Speaker,Smart Appliances,23.60,30-05-2023,Mexico,62,Man,5 per week,PlugWise,16.20,$38.34 ,Battery,Offline Mode
+Smart Speaker,Smart Appliances,21.90,14-12-2023,India,59,Woman,10 per month,SunTrack,7.10,$23.40 ,Battery,Low Bandwidth
+Smart Light Bulb,Fitness Monitoring,14.30,26-10-2020,Mexico,46,Woman,10 per month,EcoHome,11.60,$39.17 ,Battery,Low Bandwidth
+Smart Speaker,Fitness Monitoring,19.70,13-06-2020,Japan,54,Man,10 per month,SunTrack,22.20,$5.91 ,Battery,Disconnected
+Security Camera,Fitness Monitoring,6.40,05-11-2020,Canada,18,Prefer not to say,10 per month,SmartLiving,16.70,$2.29 ,Solar,Connected
+Smart TV,Climate Control,7.80,08-05-2023,India,40,Prefer not to say,3 per week,BrightLife,13.40,$3.34 ,Battery,Connected
+Home Assistant Hub,Water Conservation,24.40,21-12-2023,Canada,22,Woman,15 per month,SmartLiving,5.60,$17.05 ,Battery,Connected
+Smart Thermostat,Security,23.10,08-03-2021,Japan,18,Prefer not to say,10 per month,BrightLife,8.60,$14.85 ,Grid,Disconnected
+Solar Panel Monitor,Security,22.90,28-06-2022,Japan,53,Man,7 per week,SmartLiving,10.00,$23.80 ,Grid,Low Bandwidth
+Smart Speaker,Entertainment,23.50,08-10-2024,Germany,34,Man,3 per week,SunTrack,15.30,$8.56 ,Solar,Offline Mode
+Smart Light Bulb,Water Conservation,6.50,06-12-2021,Mexico,43,Non-binary,7 per week,EcoHome,7.70,$34.04 ,Grid,Intermittent
+Solar Panel Monitor,Water Conservation,14.30,15-12-2024,Brazil,37,Non-binary,7 per week,PlugWise,0.50,$28.39 ,Battery,Connected
+Smart Thermostat,Entertainment,5.30,01-11-2020,Germany,34,Non-binary,10 per month,SoundWave,7.70,$24.34 ,Grid,Low Bandwidth
+Video Doorbell,Fitness Monitoring,20.80,14-03-2022,Brazil,39,Prefer not to say,7 per week,RingSecure,20.60,$18.56 ,Solar,Offline Mode
+Smart Refrigerator,Smart Appliances,18.50,25-12-2022,Germany,42,Non-binary,10 per month,ViewMax,18.10,$22.26 ,Grid,Disconnected
+Smart TV,Smart Appliances,15.80,06-04-2024,South Africa,46,Man,15 per month,SafeGuard,11.60,$34.17 ,Grid,Connected
+Smart Speaker,Fitness Monitoring,14.80,10-08-2022,Canada,65,Woman,7 per week,SafeGuard,14.00,$25.63 ,Battery,Low Bandwidth
+Smart Refrigerator,Energy-saving,7.90,20-03-2020,Canada,35,Man,10 per month,EcoHome,13.80,$28.76 ,Grid,Low Bandwidth
+Smart Refrigerator,Energy-saving,16.60,25-12-2024,Mexico,33,Man,15 per month,SoundWave,23.70,$19.79 ,Battery,Low Bandwidth
+Smart Light Bulb,Fitness Monitoring,5.80,09-10-2022,South Africa,49,Woman,10 per month,BrightLife,8.10,$31.88 ,Solar,Intermittent
+Security Camera,Entertainment,13.80,29-05-2021,Germany,25,Prefer not to say,3 per week,CoolTech,12.40,$16.42 ,Solar,Intermittent
+Smart Speaker,Climate Control,4.70,22-01-2021,Japan,23,Prefer not to say,3 per week,SunTrack,0.90,$34.04 ,Grid,Low Bandwidth
+Smart Light Bulb,Climate Control,15.00,23-02-2022,France,30,Non-binary,5 per week,ViewMax,9.80,$41.91 ,Solar,Intermittent
+Smart Light Bulb,Entertainment,6.50,12-10-2021,Brazil,32,Man,3 per week,EcoHome,9.60,$4.18 ,Solar,Disconnected
+Smart Plug,Health Monitoring,18.50,14-10-2024,France,58,Man,3 per week,SafeGuard,13.20,$39.07 ,Solar,Intermittent
+Smart TV,Entertainment,16.30,01-11-2020,Brazil,30,Woman,5 per week,SunTrack,3.70,$17.13 ,Battery,Offline Mode
+Smart Light Bulb,Energy-saving,3.30,11-04-2020,USA,65,Man,10 per month,ViewMax,16.00,$13.30 ,Solar,Low Bandwidth
+Smart Light Bulb,Health Monitoring,6.90,04-05-2022,Mexico,29,Prefer not to say,10 per month,EcoHome,13.90,$43.09 ,Battery,Offline Mode
+Smart TV,Energy-saving,19.80,23-05-2022,Mexico,58,Prefer not to say,5 per week,BrightLife,11.30,$49.05 ,Battery,Low Bandwidth
+Smart Plug,Health Monitoring,5.00,04-09-2021,Mexico,54,Man,15 per month,SmartLiving,14.90,$48.42 ,Solar,Connected
+Video Doorbell,Smart Appliances,15.70,16-10-2023,France,26,Prefer not to say,10 per month,PlugWise,21.60,$31.55 ,Solar,Offline Mode
+Smart Thermostat,Fitness Monitoring,20.10,08-05-2021,India,25,Prefer not to say,5 per week,SmartLiving,15.60,$47.89 ,Solar,Offline Mode
+Smart TV,Energy-saving,1.70,13-03-2024,USA,28,Non-binary,7 per week,SmartLiving,16.00,$42.15 ,Grid,Connected
+Solar Panel Monitor,Security,15.60,14-01-2021,Brazil,19,Man,7 per week,SafeGuard,13.40,$43.84 ,Solar,Low Bandwidth
+Security Camera,Entertainment,17.80,21-04-2023,Canada,63,Prefer not to say,15 per month,RingSecure,12.20,$18.67 ,Solar,Disconnected
+Security Camera,Energy-saving,16.00,14-06-2020,Mexico,57,Non-binary,5 per week,SoundWave,19.90,$40.00 ,Battery,Connected
+Smart Speaker,Climate Control,17.40,23-03-2022,Japan,39,Woman,7 per week,SoundWave,2.30,$39.76 ,Grid,Low Bandwidth
+Solar Panel Monitor,Health Monitoring,11.10,11-12-2023,Canada,60,Prefer not to say,3 per week,RingSecure,6.60,$14.73 ,Solar,Disconnected
+Solar Panel Monitor,Energy-saving,21.90,26-06-2024,Brazil,50,Man,7 per week,RingSecure,14.40,$47.92 ,Solar,Offline Mode
+Smart Thermostat,Smart Appliances,23.20,15-06-2024,Japan,39,Man,3 per week,SmartLiving,4.70,$26.54 ,Solar,Connected
+Smart Light Bulb,Water Conservation,13.10,29-01-2021,Canada,41,Woman,10 per month,SafeGuard,13.90,$26.02 ,Battery,Offline Mode
+Smart Plug,Smart Appliances,11.20,03-07-2020,South Africa,59,Man,7 per week,SoundWave,6.60,$30.01 ,Battery,Connected
+Smart TV,Health Monitoring,24.80,13-11-2020,Australia,41,Prefer not to say,15 per month,SunTrack,11.50,$18.95 ,Battery,Connected
+Video Doorbell,Water Conservation,19.30,25-02-2023,India,51,Woman,5 per week,BrightLife,4.30,$9.99 ,Battery,Disconnected
+Home Assistant Hub,Health Monitoring,20.40,28-09-2021,France,51,Non-binary,3 per week,BrightLife,18.40,$43.81 ,Grid,Intermittent
+Solar Panel Monitor,Entertainment,14.60,09-04-2023,Mexico,48,Prefer not to say,3 per week,SmartLiving,1.60,$8.07 ,Solar,Connected
+Smart TV,Health Monitoring,8.90,09-11-2020,Australia,43,Prefer not to say,5 per week,PlugWise,15.40,$36.95 ,Grid,Intermittent
+Smart Plug,Entertainment,10.10,28-09-2023,India,36,Non-binary,5 per week,CoolTech,13.20,$49.59 ,Battery,Connected
+Smart Light Bulb,Security,4.90,21-10-2024,India,26,Prefer not to say,10 per month,SmartLiving,8.30,$15.16 ,Solar,Offline Mode
+Smart Thermostat,Climate Control,6.10,24-06-2020,Brazil,31,Prefer not to say,5 per week,CoolTech,15.80,$31.74 ,Battery,Offline Mode
+Video Doorbell,Fitness Monitoring,5.90,02-04-2023,Brazil,32,Man,15 per month,ViewMax,0.70,$16.84 ,Solar,Connected
+Smart Refrigerator,Climate Control,17.80,30-04-2021,Canada,54,Man,5 per week,SafeGuard,8.70,$30.20 ,Grid,Low Bandwidth
+Smart Thermostat,Smart Appliances,8.00,19-06-2020,India,25,Woman,5 per week,SoundWave,22.40,$36.36 ,Solar,Connected
+Smart Plug,Water Conservation,23.60,11-07-2020,Germany,40,Man,15 per month,EcoHome,16.90,$5.50 ,Battery,Connected
+Smart TV,Entertainment,3.20,05-08-2024,Canada,37,Man,7 per week,PlugWise,7.80,$6.27 ,Battery,Connected
+Home Assistant Hub,Entertainment,12.20,22-06-2024,Canada,38,Non-binary,3 per week,BrightLife,11.20,$41.23 ,Battery,Intermittent
+Smart Speaker,Fitness Monitoring,16.50,13-03-2023,South Africa,20,Man,5 per week,ViewMax,6.10,$18.38 ,Battery,Disconnected
+Smart Refrigerator,Security,13.00,30-09-2020,Germany,30,Man,7 per week,EcoHome,15.30,$10.50 ,Grid,Offline Mode
+Home Assistant Hub,Energy-saving,3.80,27-04-2024,Germany,42,Woman,15 per month,EcoHome,12.30,$46.20 ,Battery,Intermittent
+Solar Panel Monitor,Energy-saving,8.30,12-12-2023,India,55,Woman,10 per month,EcoHome,15.60,$6.33 ,Grid,Intermittent
+Solar Panel Monitor,Climate Control,5.60,02-11-2024,India,31,Non-binary,15 per month,ViewMax,5.20,$44.62 ,Solar,Connected
+Smart TV,Fitness Monitoring,3.40,27-06-2022,Japan,19,Woman,15 per month,SafeGuard,16.70,$7.88 ,Grid,Low Bandwidth
+Video Doorbell,Climate Control,0.90,13-09-2020,Germany,24,Non-binary,3 per week,SoundWave,2.30,$35.53 ,Battery,Intermittent
+Smart Plug,Fitness Monitoring,24.10,25-03-2021,Brazil,48,Non-binary,10 per month,EcoHome,16.80,$47.55 ,Solar,Connected
+Video Doorbell,Climate Control,13.60,18-01-2020,France,21,Non-binary,3 per week,SunTrack,2.10,$20.16 ,Grid,Connected
+Solar Panel Monitor,Security,3.60,14-08-2020,Germany,27,Woman,7 per week,RingSecure,17.10,$38.93 ,Battery,Connected
+Home Assistant Hub,Health Monitoring,3.50,24-01-2022,Australia,19,Prefer not to say,7 per week,BrightLife,12.50,$5.58 ,Solar,Connected
+Smart Speaker,Water Conservation,15.00,18-06-2024,India,48,Man,7 per week,CoolTech,8.80,$34.21 ,Grid,Disconnected
+Smart TV,Water Conservation,0.70,16-01-2023,Australia,26,Prefer not to say,7 per week,SafeGuard,11.60,$15.13 ,Battery,Intermittent
+Home Assistant Hub,Entertainment,15.40,06-06-2020,India,26,Prefer not to say,15 per month,SmartLiving,22.90,$22.87 ,Grid,Disconnected
+Smart Light Bulb,Entertainment,22.70,05-02-2021,France,39,Non-binary,5 per week,CoolTech,10.30,$7.39 ,Battery,Connected
+Smart Plug,Security,24.80,28-10-2021,Canada,31,Prefer not to say,5 per week,SafeGuard,2.70,$21.96 ,Solar,Connected
+Smart Refrigerator,Security,13.70,23-08-2020,USA,41,Non-binary,15 per month,SoundWave,13.00,$28.58 ,Battery,Intermittent
+Solar Panel Monitor,Fitness Monitoring,19.20,30-08-2021,Germany,63,Non-binary,5 per week,ViewMax,4.10,$34.40 ,Solar,Disconnected
+Smart Thermostat,Security,21.00,30-07-2024,Germany,59,Prefer not to say,3 per week,CoolTech,3.90,$16.56 ,Solar,Offline Mode
+Security Camera,Water Conservation,7.10,09-10-2023,Australia,24,Prefer not to say,5 per week,SunTrack,22.80,$37.87 ,Battery,Connected
+Smart Refrigerator,Security,23.90,06-06-2020,Germany,36,Man,5 per week,RingSecure,8.70,$18.89 ,Battery,Low Bandwidth
+Smart Thermostat,Fitness Monitoring,23.20,14-04-2022,Australia,20,Man,10 per month,BrightLife,5.00,$12.45 ,Battery,Connected
+Home Assistant Hub,Health Monitoring,3.10,12-09-2023,Australia,61,Prefer not to say,3 per week,SunTrack,9.40,$6.48 ,Battery,Intermittent
+Video Doorbell,Entertainment,5.70,22-04-2024,South Africa,62,Man,3 per week,CoolTech,16.20,$45.64 ,Solar,Offline Mode
+Solar Panel Monitor,Energy-saving,4.80,08-09-2020,USA,57,Non-binary,15 per month,CoolTech,3.70,$12.61 ,Grid,Intermittent
+Smart Plug,Smart Appliances,1.50,06-05-2020,South Africa,41,Non-binary,15 per month,BrightLife,11.90,$17.92 ,Grid,Offline Mode
+Smart Refrigerator,Water Conservation,21.00,23-12-2020,France,35,Non-binary,7 per week,SmartLiving,20.40,$18.81 ,Battery,Connected
+Solar Panel Monitor,Water Conservation,13.40,16-04-2021,India,20,Non-binary,3 per week,PlugWise,7.80,$8.29 ,Grid,Disconnected
+Video Doorbell,Energy-saving,6.20,10-02-2020,Australia,39,Woman,5 per week,PlugWise,3.80,$23.03 ,Battery,Disconnected
+Smart Light Bulb,Health Monitoring,16.50,11-12-2022,USA,27,Prefer not to say,10 per month,ViewMax,3.00,$9.89 ,Battery,Low Bandwidth
+Video Doorbell,Smart Appliances,5.20,29-05-2024,France,60,Prefer not to say,5 per week,SmartLiving,3.10,$42.16 ,Battery,Offline Mode
+Smart Refrigerator,Energy-saving,19.70,30-12-2022,Japan,58,Man,3 per week,SmartLiving,13.30,$32.11 ,Battery,Low Bandwidth
+Video Doorbell,Water Conservation,3.20,09-02-2021,Brazil,39,Woman,15 per month,RingSecure,1.20,$47.59 ,Grid,Intermittent
+Smart Speaker,Smart Appliances,21.70,08-02-2021,France,62,Non-binary,3 per week,SoundWave,1.80,$48.01 ,Grid,Low Bandwidth
+Smart Thermostat,Energy-saving,21.60,02-08-2023,France,32,Non-binary,3 per week,SafeGuard,17.10,$2.86 ,Solar,Offline Mode
+Smart Thermostat,Energy-saving,1.80,01-01-2022,France,19,Woman,7 per week,PlugWise,19.60,$15.86 ,Solar,Low Bandwidth
+Smart Thermostat,Health Monitoring,25.00,11-07-2024,Germany,63,Woman,10 per month,SoundWave,23.20,$43.94 ,Grid,Low Bandwidth
+Smart Plug,Water Conservation,19.90,09-07-2024,India,48,Prefer not to say,3 per week,ViewMax,2.60,$42.60 ,Battery,Low Bandwidth
+Smart Refrigerator,Fitness Monitoring,18.50,04-04-2022,South Africa,48,Man,5 per week,SunTrack,7.20,$15.42 ,Solar,Intermittent
+Smart Plug,Security,7.30,02-02-2021,USA,60,Non-binary,10 per month,PlugWise,1.20,$33.39 ,Solar,Offline Mode
+Smart Plug,Security,24.60,29-05-2020,France,24,Non-binary,10 per month,SoundWave,14.30,$48.40 ,Grid,Low Bandwidth
+Security Camera,Water Conservation,11.70,13-02-2020,Canada,39,Prefer not to say,7 per week,BrightLife,14.20,$26.92 ,Solar,Disconnected
+Smart Speaker,Health Monitoring,10.10,16-11-2023,USA,39,Woman,3 per week,SoundWave,2.50,$33.62 ,Battery,Connected
+Video Doorbell,Security,5.80,31-08-2020,Australia,59,Prefer not to say,7 per week,SafeGuard,20.70,$42.83 ,Grid,Disconnected
+Smart Refrigerator,Smart Appliances,24.30,01-02-2021,Japan,44,Woman,5 per week,SunTrack,10.40,$9.40 ,Battery,Intermittent
+Smart Thermostat,Entertainment,2.60,01-09-2022,India,51,Non-binary,10 per month,CoolTech,14.00,$22.16 ,Solar,Connected
+Smart Thermostat,Climate Control,20.80,06-01-2023,Brazil,41,Prefer not to say,3 per week,SafeGuard,17.00,$2.41 ,Solar,Intermittent
+Smart Plug,Climate Control,9.00,08-12-2022,France,63,Non-binary,10 per month,EcoHome,1.90,$47.77 ,Grid,Intermittent
+Smart Refrigerator,Smart Appliances,23.60,30-07-2022,India,61,Man,3 per week,PlugWise,13.30,$20.94 ,Grid,Connected
+Smart TV,Fitness Monitoring,7.40,11-07-2024,USA,59,Woman,5 per week,CoolTech,8.80,$42.64 ,Solar,Low Bandwidth
+Video Doorbell,Health Monitoring,9.30,03-01-2022,Mexico,38,Prefer not to say,15 per month,ViewMax,4.60,$33.52 ,Grid,Intermittent
+Smart Light Bulb,Water Conservation,22.80,08-10-2021,India,40,Woman,10 per month,BrightLife,21.60,$48.10 ,Battery,Connected
+Smart Light Bulb,Smart Appliances,17.30,24-06-2024,USA,32,Non-binary,15 per month,SoundWave,11.00,$38.51 ,Battery,Offline Mode
+Solar Panel Monitor,Security,8.30,03-04-2022,Canada,26,Non-binary,5 per week,RingSecure,11.90,$10.50 ,Grid,Intermittent
+Smart Plug,Climate Control,18.90,13-11-2024,USA,46,Man,7 per week,SunTrack,10.70,$6.63 ,Grid,Intermittent
+Smart Thermostat,Entertainment,24.00,20-06-2023,India,60,Prefer not to say,5 per week,SoundWave,16.80,$28.38 ,Battery,Connected
+Solar Panel Monitor,Climate Control,18.60,30-11-2024,France,60,Man,15 per month,CoolTech,10.50,$26.57 ,Solar,Connected
+Smart Light Bulb,Security,1.30,01-08-2024,USA,50,Prefer not to say,15 per month,RingSecure,12.90,$18.06 ,Battery,Offline Mode
+Smart Plug,Energy-saving,8.80,16-03-2023,Australia,26,Non-binary,7 per week,SunTrack,20.10,$37.19 ,Grid,Intermittent
+Solar Panel Monitor,Energy-saving,23.60,24-02-2020,Germany,61,Woman,7 per week,CoolTech,2.00,$35.26 ,Battery,Offline Mode
+Smart Plug,Fitness Monitoring,14.20,08-03-2022,Mexico,59,Man,5 per week,CoolTech,11.00,$41.86 ,Grid,Intermittent
+Smart Refrigerator,Water Conservation,21.80,09-10-2020,USA,54,Prefer not to say,5 per week,CoolTech,5.60,$34.44 ,Solar,Offline Mode
+Smart TV,Fitness Monitoring,2.50,24-11-2023,Germany,32,Non-binary,10 per month,SafeGuard,15.00,$34.19 ,Grid,Intermittent
+Smart Plug,Climate Control,23.30,04-03-2020,South Africa,55,Prefer not to say,5 per week,EcoHome,14.00,$24.70 ,Solar,Intermittent
+Solar Panel Monitor,Smart Appliances,3.50,08-06-2023,Germany,53,Woman,15 per month,BrightLife,6.30,$30.34 ,Solar,Low Bandwidth
+Security Camera,Water Conservation,17.70,08-08-2020,Mexico,22,Woman,7 per week,PlugWise,14.40,$21.31 ,Battery,Offline Mode
+Solar Panel Monitor,Climate Control,12.50,03-10-2023,USA,37,Non-binary,5 per week,EcoHome,4.10,$22.92 ,Battery,Low Bandwidth
+Video Doorbell,Fitness Monitoring,5.20,11-04-2020,Brazil,49,Prefer not to say,3 per week,BrightLife,16.70,$17.09 ,Solar,Disconnected
+Smart Speaker,Health Monitoring,3.60,05-09-2022,Brazil,39,Prefer not to say,3 per week,SunTrack,9.40,$5.89 ,Battery,Low Bandwidth
+Video Doorbell,Energy-saving,2.90,26-10-2020,India,38,Prefer not to say,7 per week,SmartLiving,17.70,$44.80 ,Battery,Disconnected
+Smart Speaker,Water Conservation,4.30,16-05-2021,India,62,Non-binary,3 per week,SafeGuard,19.70,$29.95 ,Battery,Low Bandwidth
+Smart Refrigerator,Health Monitoring,12.10,28-11-2024,India,21,Prefer not to say,10 per month,SafeGuard,16.80,$30.66 ,Battery,Disconnected
+Video Doorbell,Smart Appliances,14.90,13-08-2022,India,21,Prefer not to say,3 per week,CoolTech,1.60,$38.91 ,Battery,Low Bandwidth
+Smart Light Bulb,Security,12.80,05-04-2023,USA,50,Woman,5 per week,SoundWave,7.00,$36.74 ,Grid,Low Bandwidth
+Home Assistant Hub,Energy-saving,7.90,13-08-2022,Australia,28,Non-binary,10 per month,PlugWise,11.60,$22.14 ,Grid,Disconnected
+Smart TV,Fitness Monitoring,19.90,30-03-2024,USA,51,Prefer not to say,3 per week,RingSecure,17.20,$44.04 ,Solar,Low Bandwidth
+Security Camera,Climate Control,2.70,03-10-2023,Canada,18,Prefer not to say,10 per month,SunTrack,3.10,$27.72 ,Grid,Intermittent
+Smart Thermostat,Climate Control,19.10,27-10-2021,Australia,20,Man,5 per week,SafeGuard,10.50,$31.43 ,Solar,Connected
+Solar Panel Monitor,Entertainment,1.80,11-07-2024,Japan,50,Man,5 per week,SunTrack,23.70,$32.01 ,Grid,Low Bandwidth
+Smart Refrigerator,Water Conservation,7.20,19-02-2020,Brazil,43,Woman,15 per month,SmartLiving,1.50,$44.76 ,Grid,Disconnected
+Video Doorbell,Water Conservation,11.50,15-05-2020,South Africa,26,Woman,10 per month,CoolTech,11.00,$37.80 ,Solar,Intermittent
+Smart Plug,Fitness Monitoring,13.10,31-01-2020,Japan,26,Prefer not to say,7 per week,PlugWise,4.40,$38.13 ,Battery,Disconnected
+Smart TV,Security,9.30,28-03-2023,Japan,39,Non-binary,15 per month,SafeGuard,2.40,$31.91 ,Grid,Low Bandwidth
+Solar Panel Monitor,Smart Appliances,16.60,03-01-2024,Japan,62,Non-binary,3 per week,SunTrack,1.50,$16.19 ,Solar,Disconnected
+Smart Plug,Fitness Monitoring,7.50,08-12-2024,Brazil,43,Woman,10 per month,SmartLiving,17.30,$49.61 ,Solar,Disconnected
+Home Assistant Hub,Entertainment,13.10,12-12-2024,France,25,Non-binary,7 per week,PlugWise,22.00,$22.19 ,Solar,Offline Mode
+Video Doorbell,Smart Appliances,7.00,17-03-2024,Australia,31,Man,3 per week,SoundWave,10.00,$31.47 ,Battery,Low Bandwidth
+Smart Plug,Climate Control,5.30,19-11-2021,South Africa,52,Prefer not to say,5 per week,SmartLiving,8.20,$43.52 ,Battery,Offline Mode
+Smart Refrigerator,Entertainment,19.60,23-11-2023,Australia,51,Woman,7 per week,SoundWave,18.50,$12.23 ,Solar,Low Bandwidth
+Security Camera,Energy-saving,7.40,30-04-2020,Brazil,26,Woman,7 per week,SmartLiving,18.30,$26.31 ,Battery,Intermittent
+Smart TV,Water Conservation,4.30,25-10-2020,India,33,Woman,10 per month,BrightLife,7.60,$34.19 ,Grid,Intermittent
+Smart Plug,Health Monitoring,4.00,06-05-2023,India,29,Woman,5 per week,BrightLife,11.70,$7.43 ,Grid,Low Bandwidth
+Smart Plug,Smart Appliances,5.30,14-06-2021,Mexico,47,Prefer not to say,3 per week,ViewMax,16.50,$44.21 ,Battery,Intermittent
+Smart TV,Security,11.80,10-09-2024,India,33,Prefer not to say,10 per month,SmartLiving,16.60,$10.71 ,Battery,Connected
+Smart TV,Energy-saving,11.80,11-04-2023,South Africa,49,Non-binary,5 per week,RingSecure,4.70,$10.55 ,Solar,Connected
+Smart Thermostat,Entertainment,21.90,04-09-2021,Japan,53,Man,7 per week,BrightLife,13.80,$26.80 ,Grid,Low Bandwidth
+Smart TV,Climate Control,18.70,06-01-2024,Canada,65,Man,3 per week,ViewMax,16.70,$7.72 ,Grid,Intermittent
+Solar Panel Monitor,Health Monitoring,16.60,29-06-2022,USA,37,Woman,15 per month,CoolTech,7.00,$8.89 ,Grid,Intermittent
+Smart Speaker,Security,0.60,16-08-2022,France,59,Non-binary,10 per month,SafeGuard,2.70,$39.73 ,Solar,Intermittent
+Smart Plug,Climate Control,17.60,22-11-2021,France,21,Prefer not to say,10 per month,SmartLiving,10.40,$8.63 ,Solar,Offline Mode
+Solar Panel Monitor,Health Monitoring,8.20,25-06-2024,France,58,Prefer not to say,7 per week,SafeGuard,1.10,$45.58 ,Solar,Intermittent
+Smart Light Bulb,Climate Control,6.50,09-02-2023,USA,20,Man,15 per month,SoundWave,17.50,$32.42 ,Battery,Intermittent
+Smart Speaker,Entertainment,8.10,08-05-2024,Mexico,60,Woman,3 per week,SoundWave,6.20,$2.87 ,Battery,Connected
+Smart Speaker,Entertainment,17.70,23-08-2020,Canada,26,Prefer not to say,10 per month,PlugWise,2.70,$15.93 ,Solar,Disconnected
+Smart Speaker,Entertainment,21.10,30-03-2021,Australia,22,Non-binary,15 per month,SoundWave,1.70,$41.18 ,Solar,Connected
+Smart Thermostat,Security,16.30,03-02-2021,South Africa,29,Non-binary,5 per week,EcoHome,12.20,$34.60 ,Grid,Low Bandwidth
+Smart Refrigerator,Security,24.50,24-02-2020,France,58,Man,15 per month,SoundWave,6.40,$5.69 ,Solar,Disconnected
+Solar Panel Monitor,Energy-saving,6.40,04-12-2023,Canada,31,Non-binary,15 per month,EcoHome,9.90,$49.86 ,Grid,Connected
+Solar Panel Monitor,Water Conservation,4.30,05-03-2023,Mexico,63,Woman,5 per week,BrightLife,16.70,$36.22 ,Solar,Low Bandwidth
+Video Doorbell,Fitness Monitoring,6.80,06-11-2021,Japan,46,Man,3 per week,PlugWise,16.60,$48.83 ,Solar,Low Bandwidth
+Smart Speaker,Fitness Monitoring,13.50,17-06-2024,USA,46,Man,3 per week,PlugWise,16.20,$26.79 ,Solar,Connected
+Home Assistant Hub,Smart Appliances,5.80,22-02-2021,South Africa,48,Woman,10 per month,ViewMax,6.20,$47.47 ,Battery,Intermittent
+Home Assistant Hub,Security,23.60,10-05-2023,India,20,Prefer not to say,7 per week,PlugWise,20.80,$32.56 ,Solar,Low Bandwidth
+Smart TV,Entertainment,2.40,14-01-2021,Mexico,27,Non-binary,15 per month,EcoHome,8.30,$27.45 ,Grid,Offline Mode
+Smart Speaker,Security,3.60,19-03-2020,Japan,60,Woman,15 per month,SmartLiving,22.80,$27.69 ,Solar,Offline Mode
+Smart Plug,Security,11.80,18-09-2020,France,34,Woman,10 per month,CoolTech,23.80,$30.29 ,Battery,Low Bandwidth
+Smart Thermostat,Climate Control,10.40,27-03-2021,Canada,37,Non-binary,3 per week,SoundWave,13.50,$21.77 ,Solar,Intermittent
+Home Assistant Hub,Security,10.50,06-07-2023,USA,36,Woman,15 per month,RingSecure,3.30,$46.01 ,Grid,Offline Mode
+Smart Refrigerator,Health Monitoring,4.30,21-10-2024,USA,51,Prefer not to say,15 per month,SoundWave,5.20,$9.51 ,Grid,Disconnected
+Video Doorbell,Health Monitoring,2.50,02-01-2021,Mexico,54,Man,7 per week,SoundWave,10.00,$15.82 ,Battery,Low Bandwidth
+Smart Thermostat,Health Monitoring,21.70,28-08-2022,Germany,42,Woman,7 per week,EcoHome,21.70,$19.33 ,Solar,Offline Mode
+Video Doorbell,Fitness Monitoring,23.10,06-12-2020,France,42,Prefer not to say,5 per week,ViewMax,10.60,$11.95 ,Battery,Connected
+Smart Speaker,Security,0.80,26-08-2022,Japan,20,Woman,15 per month,BrightLife,0.90,$38.66 ,Grid,Low Bandwidth
+Smart TV,Security,11.60,25-02-2024,Japan,60,Prefer not to say,15 per month,RingSecure,2.40,$41.18 ,Battery,Offline Mode
+Smart TV,Entertainment,21.80,12-10-2021,Canada,60,Prefer not to say,5 per week,PlugWise,8.60,$11.11 ,Battery,Connected
+Security Camera,Security,9.50,06-11-2023,Australia,30,Woman,10 per month,SoundWave,17.70,$32.87 ,Grid,Offline Mode
+Smart Light Bulb,Water Conservation,16.00,13-08-2020,Brazil,29,Woman,5 per week,ViewMax,1.60,$2.78 ,Grid,Intermittent
+Smart Plug,Water Conservation,19.90,07-05-2021,Mexico,59,Man,10 per month,CoolTech,11.80,$5.39 ,Solar,Connected
+Smart Plug,Energy-saving,23.30,26-07-2022,Japan,25,Prefer not to say,7 per week,SoundWave,16.80,$49.75 ,Battery,Disconnected
+Smart Speaker,Energy-saving,1.60,09-04-2021,Japan,42,Man,7 per week,SmartLiving,3.10,$46.26 ,Solar,Intermittent
+Smart Refrigerator,Health Monitoring,9.20,01-08-2024,Brazil,21,Non-binary,3 per week,CoolTech,23.90,$46.55 ,Solar,Offline Mode
+Solar Panel Monitor,Energy-saving,13.00,28-12-2021,Brazil,46,Man,3 per week,EcoHome,12.90,$23.58 ,Battery,Disconnected
+Smart Refrigerator,Climate Control,9.70,26-09-2023,South Africa,37,Man,7 per week,SoundWave,14.80,$16.09 ,Grid,Disconnected
+Home Assistant Hub,Water Conservation,2.10,04-10-2021,Australia,48,Prefer not to say,5 per week,BrightLife,21.90,$10.89 ,Grid,Connected
+Smart Speaker,Smart Appliances,16.80,13-01-2020,Germany,29,Woman,15 per month,SoundWave,9.10,$26.95 ,Grid,Connected
+Security Camera,Entertainment,14.00,03-09-2022,South Africa,46,Woman,5 per week,BrightLife,11.90,$21.86 ,Battery,Offline Mode
+Smart Thermostat,Energy-saving,7.00,11-04-2024,France,34,Woman,15 per month,ViewMax,6.10,$39.05 ,Battery,Offline Mode
+Security Camera,Fitness Monitoring,17.30,27-12-2024,India,23,Woman,3 per week,BrightLife,21.50,$34.33 ,Solar,Intermittent
+Home Assistant Hub,Health Monitoring,7.40,27-05-2023,Canada,53,Non-binary,7 per week,PlugWise,0.90,$20.66 ,Solar,Connected
+Smart TV,Water Conservation,2.90,23-02-2022,Brazil,23,Man,3 per week,EcoHome,15.70,$4.09 ,Battery,Disconnected
+Video Doorbell,Fitness Monitoring,14.40,05-12-2022,Canada,32,Woman,7 per week,BrightLife,12.80,$12.70 ,Solar,Offline Mode
+Smart TV,Health Monitoring,2.80,15-08-2022,Japan,28,Man,7 per week,SunTrack,17.60,$4.02 ,Grid,Connected
+Smart Thermostat,Energy-saving,24.10,13-10-2024,Japan,39,Man,10 per month,PlugWise,21.30,$2.62 ,Battery,Disconnected
+Security Camera,Smart Appliances,4.60,15-02-2020,Australia,40,Non-binary,10 per month,SunTrack,11.50,$2.88 ,Solar,Connected
+Video Doorbell,Energy-saving,13.20,15-01-2023,Germany,21,Woman,5 per week,SoundWave,9.90,$12.74 ,Battery,Offline Mode
+Smart Refrigerator,Smart Appliances,16.60,28-05-2023,India,45,Prefer not to say,7 per week,SunTrack,18.70,$40.01 ,Grid,Intermittent
+Solar Panel Monitor,Health Monitoring,8.60,23-09-2021,Germany,26,Woman,7 per week,SmartLiving,8.30,$27.58 ,Battery,Connected
+Video Doorbell,Entertainment,7.30,08-06-2022,Mexico,43,Woman,5 per week,SoundWave,8.40,$30.33 ,Grid,Low Bandwidth
+Smart TV,Health Monitoring,19.50,23-09-2020,France,56,Woman,10 per month,RingSecure,22.40,$16.08 ,Battery,Intermittent
+Smart Speaker,Smart Appliances,5.20,22-12-2024,USA,44,Prefer not to say,15 per month,EcoHome,16.30,$41.70 ,Battery,Connected
+Smart Speaker,Entertainment,2.20,23-11-2023,India,58,Prefer not to say,3 per week,PlugWise,20.70,$29.79 ,Battery,Disconnected
+Smart Thermostat,Health Monitoring,8.00,17-04-2020,Germany,27,Prefer not to say,5 per week,RingSecure,11.70,$33.82 ,Solar,Low Bandwidth
+Video Doorbell,Climate Control,10.90,11-09-2020,Japan,34,Non-binary,5 per week,ViewMax,16.60,$8.97 ,Battery,Intermittent
+Smart Plug,Climate Control,23.90,06-08-2020,Australia,34,Man,10 per month,CoolTech,12.10,$13.61 ,Battery,Connected
+Video Doorbell,Water Conservation,16.40,11-08-2024,Canada,51,Woman,15 per month,CoolTech,10.60,$38.39 ,Grid,Disconnected
+Solar Panel Monitor,Security,23.50,13-11-2020,India,54,Man,15 per month,SmartLiving,18.90,$31.47 ,Solar,Low Bandwidth
+Security Camera,Health Monitoring,19.80,19-03-2024,Brazil,44,Man,15 per month,BrightLife,11.20,$2.61 ,Grid,Disconnected
+Video Doorbell,Smart Appliances,23.90,03-02-2020,France,35,Man,7 per week,ViewMax,13.00,$47.78 ,Grid,Offline Mode
+Smart Refrigerator,Energy-saving,7.30,16-07-2024,USA,25,Woman,10 per month,RingSecure,22.30,$36.70 ,Grid,Connected
+Smart Refrigerator,Climate Control,21.70,18-07-2023,France,60,Prefer not to say,5 per week,EcoHome,11.00,$39.92 ,Grid,Offline Mode
+Video Doorbell,Water Conservation,23.30,10-12-2020,India,49,Prefer not to say,3 per week,SafeGuard,4.70,$40.92 ,Grid,Offline Mode
+Smart Thermostat,Smart Appliances,11.00,18-07-2021,India,55,Non-binary,15 per month,RingSecure,10.80,$27.66 ,Solar,Low Bandwidth
+Home Assistant Hub,Climate Control,3.60,30-08-2024,India,65,Prefer not to say,3 per week,ViewMax,3.20,$46.22 ,Battery,Connected
+Smart Plug,Climate Control,5.80,10-02-2021,USA,47,Woman,7 per week,SmartLiving,22.90,$30.31 ,Grid,Low Bandwidth
+Smart Plug,Security,19.60,09-04-2023,USA,61,Man,15 per month,SunTrack,22.20,$2.02 ,Solar,Connected
+Solar Panel Monitor,Security,2.10,03-12-2022,USA,19,Prefer not to say,7 per week,SmartLiving,17.40,$5.82 ,Grid,Disconnected
+Smart Refrigerator,Fitness Monitoring,5.50,02-12-2024,USA,37,Man,3 per week,SoundWave,9.90,$22.46 ,Solar,Disconnected
+Solar Panel Monitor,Security,8.40,18-08-2023,Japan,26,Woman,10 per month,CoolTech,7.50,$17.52 ,Solar,Offline Mode
+Smart Refrigerator,Climate Control,17.90,19-03-2021,USA,57,Non-binary,10 per month,SmartLiving,5.00,$15.91 ,Battery,Connected
+Home Assistant Hub,Smart Appliances,24.90,13-05-2022,Brazil,36,Prefer not to say,7 per week,RingSecure,10.60,$38.52 ,Grid,Connected
+Solar Panel Monitor,Entertainment,15.50,10-06-2022,France,43,Prefer not to say,10 per month,ViewMax,22.60,$43.83 ,Solar,Connected
+Home Assistant Hub,Fitness Monitoring,13.70,29-12-2021,Germany,37,Non-binary,3 per week,ViewMax,16.80,$49.48 ,Battery,Offline Mode
+Smart TV,Fitness Monitoring,0.90,10-12-2023,Mexico,63,Man,5 per week,RingSecure,8.90,$49.82 ,Solar,Low Bandwidth
+Home Assistant Hub,Fitness Monitoring,21.20,05-11-2022,Japan,62,Non-binary,3 per week,CoolTech,13.30,$17.72 ,Solar,Intermittent
+Smart Light Bulb,Smart Appliances,10.00,24-01-2020,Canada,35,Non-binary,3 per week,SoundWave,2.10,$8.94 ,Grid,Offline Mode
+Solar Panel Monitor,Health Monitoring,24.90,17-12-2020,Mexico,45,Man,15 per month,EcoHome,11.60,$13.81 ,Solar,Offline Mode
+Smart Speaker,Security,7.50,08-05-2024,Canada,35,Prefer not to say,15 per month,CoolTech,12.40,$2.58 ,Solar,Disconnected
+Security Camera,Water Conservation,4.60,31-05-2023,India,19,Non-binary,7 per week,SafeGuard,21.10,$14.02 ,Battery,Connected
+Security Camera,Security,19.60,16-06-2021,Canada,48,Man,10 per month,ViewMax,23.60,$7.94 ,Grid,Disconnected
+Smart Light Bulb,Security,5.50,01-03-2023,South Africa,57,Man,10 per month,SafeGuard,5.80,$36.45 ,Grid,Intermittent
+Smart Refrigerator,Energy-saving,20.20,13-05-2023,India,38,Woman,15 per month,BrightLife,20.90,$42.19 ,Battery,Disconnected
+Smart TV,Entertainment,8.70,22-04-2020,USA,20,Woman,10 per month,CoolTech,15.70,$38.59 ,Solar,Low Bandwidth
+Smart Light Bulb,Climate Control,11.80,01-05-2023,Japan,56,Non-binary,10 per month,SafeGuard,22.20,$39.45 ,Grid,Disconnected
+Smart Thermostat,Water Conservation,23.10,06-10-2023,Canada,53,Prefer not to say,10 per month,SmartLiving,17.60,$33.76 ,Solar,Disconnected
+Security Camera,Smart Appliances,14.10,26-04-2020,USA,23,Non-binary,7 per week,SoundWave,14.90,$29.38 ,Battery,Disconnected
+Smart TV,Security,15.80,05-12-2021,Mexico,34,Woman,5 per week,SunTrack,2.80,$38.89 ,Solar,Disconnected
+Security Camera,Health Monitoring,10.30,08-07-2024,India,19,Woman,3 per week,BrightLife,18.90,$6.14 ,Grid,Disconnected
+Smart TV,Energy-saving,13.90,20-10-2022,Japan,60,Non-binary,7 per week,PlugWise,24.00,$20.70 ,Grid,Intermittent
+Smart Plug,Security,16.90,02-03-2021,France,35,Woman,15 per month,SunTrack,8.30,$6.32 ,Grid,Disconnected
+Video Doorbell,Health Monitoring,6.00,17-03-2020,USA,52,Non-binary,3 per week,SoundWave,12.10,$22.39 ,Grid,Low Bandwidth
+Smart Thermostat,Smart Appliances,17.40,22-09-2022,Mexico,63,Non-binary,3 per week,SafeGuard,5.40,$30.37 ,Solar,Disconnected
+Home Assistant Hub,Entertainment,9.20,10-02-2020,Germany,35,Prefer not to say,7 per week,EcoHome,7.30,$46.14 ,Battery,Disconnected
+Smart Light Bulb,Security,13.10,17-06-2021,Germany,23,Prefer not to say,5 per week,ViewMax,9.10,$16.48 ,Battery,Connected
+Solar Panel Monitor,Health Monitoring,24.80,18-10-2023,India,20,Man,15 per month,SmartLiving,8.50,$18.58 ,Grid,Disconnected
+Smart Plug,Fitness Monitoring,20.00,12-05-2020,France,27,Prefer not to say,7 per week,EcoHome,22.10,$4.17 ,Grid,Intermittent
+Solar Panel Monitor,Entertainment,19.20,21-06-2024,Canada,25,Man,10 per month,SafeGuard,7.10,$6.70 ,Solar,Offline Mode
+Security Camera,Security,21.60,03-11-2021,Germany,28,Man,5 per week,SmartLiving,5.20,$45.88 ,Solar,Offline Mode
+Smart Light Bulb,Smart Appliances,20.10,20-03-2020,Brazil,26,Woman,7 per week,SmartLiving,11.10,$27.54 ,Grid,Disconnected
+Security Camera,Climate Control,11.00,22-09-2021,Japan,18,Non-binary,15 per month,BrightLife,13.90,$47.46 ,Grid,Connected
+Security Camera,Fitness Monitoring,24.20,23-05-2021,Brazil,23,Non-binary,7 per week,EcoHome,21.80,$27.93 ,Battery,Connected
+Smart Plug,Fitness Monitoring,22.60,31-07-2023,Mexico,21,Man,15 per month,EcoHome,10.50,$24.45 ,Battery,Disconnected
+Security Camera,Energy-saving,21.60,14-02-2021,Germany,31,Woman,15 per month,CoolTech,7.90,$46.84 ,Battery,Connected
+Smart Thermostat,Energy-saving,9.80,01-12-2023,France,42,Non-binary,5 per week,PlugWise,16.50,$41.89 ,Solar,Offline Mode
+Smart TV,Health Monitoring,9.50,04-11-2023,Mexico,41,Man,3 per week,SoundWave,6.00,$10.23 ,Battery,Low Bandwidth
+Video Doorbell,Smart Appliances,3.00,03-08-2022,Australia,54,Non-binary,3 per week,SunTrack,11.50,$16.40 ,Solar,Connected
+Smart Thermostat,Entertainment,6.30,28-07-2024,Brazil,33,Woman,5 per week,EcoHome,1.20,$14.71 ,Grid,Intermittent
+Security Camera,Water Conservation,6.10,02-10-2021,Australia,21,Prefer not to say,7 per week,BrightLife,4.90,$33.50 ,Solar,Low Bandwidth
+Home Assistant Hub,Smart Appliances,14.10,05-04-2021,Brazil,46,Man,7 per week,ViewMax,9.10,$45.02 ,Battery,Offline Mode
+Smart Thermostat,Water Conservation,1.70,16-04-2020,Japan,47,Non-binary,10 per month,SunTrack,23.10,$23.59 ,Battery,Low Bandwidth
+Security Camera,Health Monitoring,4.30,16-02-2024,India,49,Man,10 per month,RingSecure,16.80,$17.18 ,Grid,Offline Mode
+Smart Refrigerator,Climate Control,1.90,04-11-2020,Mexico,46,Woman,7 per week,ViewMax,7.20,$45.09 ,Grid,Offline Mode
+Security Camera,Water Conservation,5.50,09-04-2020,France,32,Man,5 per week,SafeGuard,9.80,$37.79 ,Battery,Connected
+Smart Speaker,Water Conservation,19.30,28-02-2020,USA,45,Man,3 per week,CoolTech,11.50,$17.70 ,Battery,Connected
+Smart Refrigerator,Climate Control,14.20,08-04-2024,USA,22,Woman,10 per month,SunTrack,18.70,$7.04 ,Grid,Connected
+Smart Light Bulb,Energy-saving,14.20,19-06-2024,USA,49,Woman,7 per week,RingSecure,6.60,$49.02 ,Grid,Offline Mode
+Home Assistant Hub,Smart Appliances,11.40,11-10-2022,Japan,52,Prefer not to say,15 per month,ViewMax,5.40,$17.98 ,Solar,Connected
+Smart Refrigerator,Security,3.20,20-10-2020,Canada,37,Woman,5 per week,RingSecure,4.60,$14.09 ,Battery,Disconnected
+Smart TV,Entertainment,16.90,24-07-2022,South Africa,50,Man,10 per month,PlugWise,7.90,$42.89 ,Solar,Offline Mode
+Security Camera,Water Conservation,13.00,24-07-2023,France,51,Non-binary,10 per month,BrightLife,1.70,$30.48 ,Grid,Connected
+Solar Panel Monitor,Smart Appliances,4.30,09-08-2022,Canada,47,Prefer not to say,10 per month,ViewMax,7.70,$36.83 ,Battery,Offline Mode
+Smart Refrigerator,Health Monitoring,9.70,08-07-2023,France,59,Non-binary,15 per month,RingSecure,19.60,$9.08 ,Grid,Offline Mode
+Smart Refrigerator,Fitness Monitoring,17.40,03-06-2021,USA,62,Woman,10 per month,SunTrack,6.80,$5.99 ,Solar,Disconnected
+Video Doorbell,Health Monitoring,16.70,10-10-2023,Australia,65,Non-binary,3 per week,CoolTech,19.80,$12.62 ,Grid,Connected
+Smart Plug,Entertainment,22.70,25-10-2022,Mexico,20,Man,10 per month,PlugWise,23.90,$40.93 ,Solar,Low Bandwidth
+Video Doorbell,Security,12.50,11-08-2022,France,35,Woman,3 per week,CoolTech,5.50,$31.73 ,Solar,Connected
+Home Assistant Hub,Entertainment,16.70,15-12-2020,South Africa,27,Non-binary,3 per week,CoolTech,11.10,$24.22 ,Battery,Connected
+Home Assistant Hub,Health Monitoring,9.90,04-01-2020,USA,58,Prefer not to say,3 per week,SoundWave,11.20,$44.07 ,Solar,Offline Mode
+Home Assistant Hub,Fitness Monitoring,1.90,12-09-2021,USA,54,Prefer not to say,5 per week,SmartLiving,7.20,$25.34 ,Grid,Intermittent
+Smart TV,Climate Control,13.00,25-03-2022,Brazil,52,Man,5 per week,BrightLife,20.80,$28.41 ,Battery,Low Bandwidth
+Smart Thermostat,Climate Control,18.10,13-01-2020,USA,21,Prefer not to say,15 per month,CoolTech,10.70,$17.50 ,Battery,Connected
+Security Camera,Fitness Monitoring,16.70,17-05-2021,USA,58,Man,10 per month,SunTrack,7.20,$21.79 ,Battery,Connected
+Home Assistant Hub,Health Monitoring,5.50,30-10-2023,USA,54,Man,7 per week,SoundWave,12.40,$19.75 ,Battery,Disconnected
+Solar Panel Monitor,Entertainment,19.50,08-08-2022,Mexico,41,Man,15 per month,SunTrack,7.50,$4.46 ,Grid,Offline Mode
+Smart Plug,Fitness Monitoring,21.40,30-04-2022,India,44,Prefer not to say,7 per week,SafeGuard,17.30,$22.78 ,Battery,Disconnected
+Smart Refrigerator,Water Conservation,11.00,19-12-2024,India,61,Prefer not to say,3 per week,ViewMax,9.50,$39.67 ,Solar,Offline Mode
+Smart Plug,Security,19.60,23-07-2020,Japan,58,Non-binary,7 per week,PlugWise,19.80,$10.66 ,Grid,Disconnected
+Smart Speaker,Water Conservation,12.30,25-05-2024,India,52,Man,7 per week,BrightLife,16.80,$30.60 ,Solar,Offline Mode
+Smart Refrigerator,Entertainment,4.80,27-04-2023,South Africa,40,Man,5 per week,PlugWise,6.20,$40.71 ,Grid,Offline Mode
+Video Doorbell,Smart Appliances,13.90,07-01-2023,France,63,Woman,10 per month,SmartLiving,13.30,$47.82 ,Solar,Disconnected
+Smart Speaker,Health Monitoring,18.00,11-08-2024,Canada,62,Prefer not to say,7 per week,BrightLife,2.10,$29.59 ,Battery,Disconnected
+Smart Plug,Entertainment,23.80,08-04-2021,Australia,53,Woman,3 per week,CoolTech,13.90,$18.44 ,Battery,Offline Mode
+Smart Refrigerator,Security,24.40,11-07-2023,Mexico,42,Non-binary,10 per month,PlugWise,22.00,$26.31 ,Battery,Disconnected
+Smart Refrigerator,Energy-saving,22.30,06-06-2020,Mexico,19,Man,15 per month,BrightLife,17.90,$18.96 ,Battery,Connected
+Smart Refrigerator,Water Conservation,18.90,12-10-2023,Mexico,24,Prefer not to say,7 per week,RingSecure,2.40,$13.04 ,Battery,Intermittent
+Smart Refrigerator,Smart Appliances,19.30,12-01-2021,USA,45,Man,7 per week,CoolTech,20.80,$40.87 ,Battery,Connected
+Video Doorbell,Climate Control,17.70,16-01-2020,France,21,Woman,10 per month,RingSecure,10.60,$18.98 ,Battery,Intermittent
+Solar Panel Monitor,Entertainment,15.50,08-03-2024,Mexico,59,Woman,5 per week,RingSecure,23.40,$17.25 ,Battery,Intermittent
+Security Camera,Health Monitoring,19.10,12-12-2023,Germany,41,Woman,5 per week,PlugWise,0.90,$38.27 ,Grid,Connected
+Solar Panel Monitor,Climate Control,15.70,19-10-2020,Japan,40,Woman,10 per month,SoundWave,8.60,$22.55 ,Solar,Intermittent
+Solar Panel Monitor,Entertainment,2.50,11-10-2021,France,65,Man,15 per month,RingSecure,7.00,$26.04 ,Grid,Low Bandwidth
+Solar Panel Monitor,Energy-saving,21.10,10-12-2023,Mexico,61,Non-binary,15 per month,RingSecure,9.60,$29.82 ,Grid,Intermittent
+Smart Speaker,Entertainment,24.60,17-03-2023,Brazil,56,Woman,7 per week,BrightLife,23.60,$46.81 ,Grid,Intermittent
+Smart Thermostat,Health Monitoring,7.80,24-07-2021,France,19,Prefer not to say,10 per month,SafeGuard,13.30,$47.49 ,Grid,Disconnected
+Smart Light Bulb,Health Monitoring,14.20,11-02-2020,France,45,Man,15 per month,PlugWise,5.50,$26.38 ,Grid,Connected
+Smart Plug,Climate Control,3.70,20-09-2024,USA,52,Non-binary,10 per month,EcoHome,6.10,$8.51 ,Solar,Intermittent
+Smart Speaker,Health Monitoring,11.50,16-03-2023,Mexico,56,Man,5 per week,BrightLife,5.50,$48.30 ,Solar,Offline Mode
+Smart Speaker,Energy-saving,14.40,02-09-2021,Japan,27,Man,7 per week,SafeGuard,5.80,$19.83 ,Grid,Low Bandwidth
+Smart Refrigerator,Fitness Monitoring,10.70,19-03-2023,India,19,Man,7 per week,ViewMax,15.60,$6.29 ,Battery,Intermittent
+Smart Speaker,Security,24.30,04-09-2023,India,34,Man,7 per week,CoolTech,12.00,$18.34 ,Solar,Offline Mode
+Smart Speaker,Water Conservation,15.00,02-10-2021,Australia,29,Man,7 per week,EcoHome,8.70,$21.87 ,Grid,Low Bandwidth
+Smart Thermostat,Energy-saving,20.10,01-12-2020,South Africa,62,Woman,7 per week,SunTrack,6.20,$41.87 ,Battery,Intermittent
+Smart Thermostat,Energy-saving,24.20,01-04-2024,South Africa,50,Prefer not to say,10 per month,SafeGuard,0.90,$40.88 ,Solar,Intermittent
+Smart Thermostat,Health Monitoring,23.10,18-11-2022,Canada,43,Man,3 per week,CoolTech,13.50,$2.12 ,Battery,Offline Mode
+Solar Panel Monitor,Water Conservation,20.80,23-11-2020,Germany,39,Prefer not to say,15 per month,SmartLiving,12.10,$10.12 ,Grid,Connected
+Smart Refrigerator,Smart Appliances,11.70,02-08-2020,Australia,63,Non-binary,10 per month,SafeGuard,21.60,$43.19 ,Solar,Offline Mode
+Smart Refrigerator,Water Conservation,24.00,29-11-2020,USA,34,Woman,15 per month,ViewMax,4.90,$8.81 ,Battery,Disconnected
+Smart Speaker,Fitness Monitoring,20.40,14-10-2021,France,49,Non-binary,3 per week,SafeGuard,16.60,$44.13 ,Grid,Intermittent
+Solar Panel Monitor,Entertainment,23.40,05-06-2022,Brazil,27,Prefer not to say,3 per week,ViewMax,3.70,$45.24 ,Battery,Intermittent
+Solar Panel Monitor,Security,5.70,16-11-2022,Brazil,63,Man,3 per week,EcoHome,17.00,$11.33 ,Solar,Offline Mode
+Smart Light Bulb,Smart Appliances,20.60,28-07-2024,Germany,36,Prefer not to say,7 per week,ViewMax,16.80,$28.04 ,Battery,Intermittent
+Smart Plug,Entertainment,6.30,17-07-2022,South Africa,35,Prefer not to say,15 per month,SmartLiving,3.50,$38.61 ,Solar,Connected
+Smart Light Bulb,Water Conservation,22.30,13-03-2022,France,61,Non-binary,7 per week,SoundWave,23.30,$49.50 ,Solar,Intermittent
+Solar Panel Monitor,Security,12.60,20-08-2022,Germany,54,Man,7 per week,ViewMax,22.90,$21.02 ,Battery,Low Bandwidth
+Video Doorbell,Fitness Monitoring,16.30,08-12-2023,USA,58,Non-binary,7 per week,SafeGuard,21.60,$11.74 ,Grid,Low Bandwidth
+Home Assistant Hub,Fitness Monitoring,11.90,01-11-2021,France,27,Non-binary,7 per week,SoundWave,9.80,$45.47 ,Battery,Low Bandwidth
+Home Assistant Hub,Security,14.00,22-10-2020,USA,63,Prefer not to say,7 per week,SafeGuard,17.40,$8.90 ,Grid,Connected
+Home Assistant Hub,Entertainment,16.50,18-11-2021,Mexico,32,Woman,7 per week,RingSecure,10.20,$11.52 ,Solar,Offline Mode
+Smart Refrigerator,Smart Appliances,16.40,25-12-2021,Australia,48,Woman,7 per week,ViewMax,16.60,$15.06 ,Solar,Low Bandwidth
+Smart Light Bulb,Health Monitoring,10.60,19-01-2020,France,26,Prefer not to say,3 per week,SunTrack,19.20,$47.29 ,Grid,Offline Mode
+Video Doorbell,Water Conservation,23.70,25-12-2021,South Africa,61,Man,7 per week,CoolTech,15.20,$14.69 ,Battery,Intermittent
+Smart Light Bulb,Smart Appliances,16.30,31-01-2021,Brazil,45,Woman,5 per week,BrightLife,7.50,$37.09 ,Battery,Connected
+Security Camera,Climate Control,18.20,08-12-2024,Japan,58,Prefer not to say,15 per month,EcoHome,16.80,$11.43 ,Grid,Low Bandwidth
+Video Doorbell,Smart Appliances,16.60,01-02-2022,France,58,Woman,10 per month,SoundWave,12.20,$3.79 ,Battery,Low Bandwidth
+Home Assistant Hub,Smart Appliances,19.40,15-06-2022,USA,20,Prefer not to say,15 per month,ViewMax,16.30,$31.23 ,Grid,Disconnected
+Home Assistant Hub,Water Conservation,7.20,02-11-2023,Mexico,22,Woman,3 per week,EcoHome,2.90,$21.25 ,Solar,Low Bandwidth
+Solar Panel Monitor,Security,6.50,11-02-2024,Canada,32,Woman,3 per week,SafeGuard,20.20,$44.40 ,Battery,Connected
+Solar Panel Monitor,Climate Control,10.90,13-02-2020,India,24,Prefer not to say,15 per month,CoolTech,17.70,$24.49 ,Grid,Offline Mode
+Smart Speaker,Smart Appliances,22.00,07-10-2024,Brazil,64,Prefer not to say,15 per month,BrightLife,11.00,$28.06 ,Grid,Intermittent
+Solar Panel Monitor,Health Monitoring,20.50,15-12-2023,Mexico,41,Man,15 per month,RingSecure,18.80,$28.02 ,Grid,Connected
+Smart Plug,Smart Appliances,15.80,02-11-2022,France,54,Prefer not to say,3 per week,EcoHome,14.70,$37.65 ,Solar,Intermittent
+Smart TV,Climate Control,18.20,03-09-2022,Germany,21,Woman,3 per week,SunTrack,19.40,$27.60 ,Battery,Low Bandwidth
+Security Camera,Security,24.80,28-08-2021,Mexico,59,Woman,7 per week,BrightLife,9.50,$27.90 ,Battery,Connected
+Smart Speaker,Health Monitoring,2.90,24-03-2024,Canada,56,Man,3 per week,SmartLiving,10.60,$27.27 ,Grid,Intermittent
+Smart Light Bulb,Water Conservation,14.50,02-11-2020,India,40,Woman,7 per week,RingSecure,22.00,$13.33 ,Solar,Intermittent
+Smart Refrigerator,Smart Appliances,17.10,22-07-2024,Mexico,41,Man,15 per month,ViewMax,15.70,$14.09 ,Grid,Connected
+Solar Panel Monitor,Smart Appliances,18.00,03-04-2024,Germany,65,Prefer not to say,5 per week,CoolTech,15.00,$10.95 ,Battery,Connected
+Video Doorbell,Energy-saving,6.90,04-10-2021,USA,24,Non-binary,15 per month,BrightLife,14.30,$40.37 ,Solar,Offline Mode
+Video Doorbell,Energy-saving,10.30,15-12-2023,Mexico,64,Non-binary,10 per month,SafeGuard,21.10,$49.22 ,Battery,Low Bandwidth
+Smart Thermostat,Water Conservation,1.20,25-05-2020,Mexico,41,Woman,15 per month,RingSecure,16.60,$36.98 ,Battery,Low Bandwidth
+Home Assistant Hub,Security,9.00,08-04-2023,Japan,44,Non-binary,15 per month,ViewMax,6.10,$26.43 ,Grid,Connected
+Smart Thermostat,Health Monitoring,8.10,22-10-2023,France,52,Prefer not to say,7 per week,PlugWise,8.60,$41.81 ,Solar,Connected
+Smart Light Bulb,Security,2.60,22-08-2020,Brazil,62,Prefer not to say,3 per week,RingSecure,2.10,$22.93 ,Solar,Disconnected
+Smart Light Bulb,Climate Control,22.30,07-04-2020,Mexico,43,Woman,10 per month,SunTrack,20.60,$40.79 ,Grid,Offline Mode
+Home Assistant Hub,Entertainment,7.70,03-02-2022,Mexico,29,Non-binary,7 per week,RingSecure,23.20,$44.91 ,Grid,Intermittent
+Smart Light Bulb,Health Monitoring,11.80,22-08-2021,South Africa,25,Prefer not to say,15 per month,SoundWave,18.40,$16.68 ,Grid,Intermittent
+Smart Light Bulb,Entertainment,24.90,24-09-2021,Canada,46,Man,10 per month,SoundWave,20.00,$43.90 ,Grid,Intermittent
+Smart Plug,Smart Appliances,7.20,22-05-2020,Japan,37,Woman,5 per week,SmartLiving,16.20,$7.98 ,Grid,Intermittent
+Smart Light Bulb,Health Monitoring,12.10,12-08-2024,France,34,Prefer not to say,5 per week,EcoHome,17.70,$18.00 ,Battery,Low Bandwidth
+Solar Panel Monitor,Health Monitoring,5.40,14-03-2022,Japan,58,Woman,3 per week,BrightLife,11.90,$17.35 ,Battery,Disconnected
+Smart Speaker,Water Conservation,1.30,15-03-2024,USA,49,Woman,10 per month,SmartLiving,15.80,$30.95 ,Grid,Disconnected
+Smart Plug,Security,16.00,27-09-2021,India,42,Prefer not to say,3 per week,ViewMax,4.70,$38.50 ,Grid,Offline Mode
+Video Doorbell,Health Monitoring,13.20,27-10-2022,France,19,Man,3 per week,BrightLife,13.60,$18.39 ,Battery,Intermittent
+Smart Plug,Security,9.10,15-04-2023,Brazil,57,Prefer not to say,10 per month,ViewMax,23.10,$29.33 ,Battery,Intermittent
+Solar Panel Monitor,Fitness Monitoring,12.70,15-09-2023,Brazil,59,Woman,7 per week,SmartLiving,15.30,$19.45 ,Grid,Low Bandwidth
+Smart Speaker,Water Conservation,17.60,26-10-2022,Australia,18,Woman,7 per week,RingSecure,13.60,$8.58 ,Grid,Disconnected
+Smart Refrigerator,Energy-saving,1.70,26-07-2022,Japan,60,Woman,5 per week,ViewMax,3.30,$31.68 ,Grid,Disconnected
+Smart Thermostat,Smart Appliances,20.90,03-02-2023,Brazil,59,Woman,5 per week,SmartLiving,18.60,$20.78 ,Battery,Disconnected
+Smart TV,Smart Appliances,16.30,29-11-2020,France,49,Non-binary,3 per week,CoolTech,18.00,$5.54 ,Solar,Intermittent
+Smart Speaker,Fitness Monitoring,12.90,18-01-2023,India,44,Prefer not to say,5 per week,SafeGuard,2.40,$16.06 ,Solar,Offline Mode
+Smart Light Bulb,Energy-saving,4.70,28-11-2023,South Africa,52,Woman,3 per week,SunTrack,8.30,$46.80 ,Battery,Low Bandwidth
+Security Camera,Smart Appliances,12.70,18-12-2022,India,45,Man,10 per month,SafeGuard,7.00,$19.06 ,Grid,Intermittent
+Solar Panel Monitor,Health Monitoring,5.50,28-10-2021,India,49,Prefer not to say,15 per month,SafeGuard,11.90,$33.02 ,Battery,Offline Mode
+Smart Plug,Fitness Monitoring,12.70,06-04-2020,Brazil,40,Non-binary,3 per week,SunTrack,14.90,$18.78 ,Grid,Low Bandwidth
+Smart TV,Entertainment,17.40,01-06-2022,Canada,26,Prefer not to say,5 per week,ViewMax,12.30,$34.62 ,Solar,Disconnected
+Smart Light Bulb,Energy-saving,5.00,26-03-2021,Canada,35,Woman,3 per week,PlugWise,2.50,$17.42 ,Battery,Low Bandwidth
+Home Assistant Hub,Water Conservation,16.60,12-03-2024,Australia,54,Woman,10 per month,CoolTech,2.20,$7.54 ,Battery,Intermittent
+Security Camera,Smart Appliances,19.10,28-01-2022,Australia,52,Prefer not to say,15 per month,SunTrack,12.20,$3.28 ,Grid,Offline Mode
+Home Assistant Hub,Climate Control,9.40,29-03-2023,USA,30,Prefer not to say,3 per week,SunTrack,14.70,$35.55 ,Battery,Disconnected
+Security Camera,Entertainment,14.40,23-04-2023,France,40,Prefer not to say,15 per month,RingSecure,1.20,$47.62 ,Battery,Low Bandwidth
+Smart Speaker,Security,12.40,22-02-2022,Canada,26,Non-binary,5 per week,SunTrack,4.80,$49.35 ,Solar,Disconnected
+Smart TV,Fitness Monitoring,19.20,07-12-2023,Germany,60,Woman,15 per month,SafeGuard,11.90,$14.58 ,Solar,Low Bandwidth
+Security Camera,Smart Appliances,9.10,21-01-2023,USA,59,Non-binary,15 per month,SoundWave,3.50,$42.99 ,Solar,Low Bandwidth
+Security Camera,Climate Control,2.90,27-02-2021,South Africa,20,Prefer not to say,5 per week,SunTrack,7.40,$27.10 ,Grid,Offline Mode
+Smart Refrigerator,Climate Control,24.10,15-08-2021,France,38,Non-binary,10 per month,SoundWave,16.40,$42.35 ,Grid,Disconnected
+Smart Plug,Security,1.10,21-01-2022,Brazil,45,Man,3 per week,CoolTech,21.00,$48.54 ,Grid,Disconnected
+Smart Plug,Health Monitoring,11.90,20-01-2022,South Africa,54,Woman,10 per month,PlugWise,8.60,$4.17 ,Grid,Connected
+Security Camera,Security,7.90,17-01-2022,India,18,Man,3 per week,PlugWise,23.10,$49.92 ,Battery,Low Bandwidth
+Smart Thermostat,Energy-saving,24.00,18-02-2024,Mexico,53,Man,3 per week,SafeGuard,8.30,$2.47 ,Grid,Low Bandwidth
+Home Assistant Hub,Water Conservation,9.30,01-08-2021,South Africa,41,Woman,15 per month,ViewMax,1.20,$13.07 ,Battery,Low Bandwidth
+Smart TV,Energy-saving,23.20,02-11-2020,India,61,Prefer not to say,10 per month,RingSecure,10.20,$5.14 ,Battery,Offline Mode
+Home Assistant Hub,Climate Control,24.10,09-01-2021,South Africa,30,Non-binary,7 per week,SoundWave,9.30,$39.35 ,Battery,Offline Mode
+Smart Thermostat,Health Monitoring,12.80,23-09-2024,USA,53,Man,15 per month,SafeGuard,22.90,$36.09 ,Solar,Low Bandwidth
+Security Camera,Health Monitoring,15.90,29-11-2023,Japan,65,Woman,10 per month,SmartLiving,19.30,$7.47 ,Battery,Low Bandwidth
+Security Camera,Climate Control,13.60,07-11-2023,South Africa,35,Man,5 per week,SunTrack,15.40,$16.17 ,Grid,Disconnected
+Smart Plug,Fitness Monitoring,14.80,14-02-2023,India,43,Non-binary,3 per week,ViewMax,21.60,$37.82 ,Grid,Offline Mode
+Smart TV,Smart Appliances,13.60,15-09-2023,Mexico,45,Man,3 per week,SunTrack,14.30,$6.08 ,Battery,Intermittent
+Video Doorbell,Climate Control,22.40,16-05-2023,USA,20,Non-binary,5 per week,BrightLife,11.80,$20.71 ,Solar,Disconnected
+Smart TV,Water Conservation,16.90,30-08-2023,South Africa,31,Prefer not to say,7 per week,SmartLiving,14.60,$38.65 ,Solar,Connected
+Home Assistant Hub,Fitness Monitoring,6.10,19-12-2020,Mexico,57,Woman,5 per week,CoolTech,15.60,$16.12 ,Grid,Low Bandwidth
+Smart Thermostat,Security,9.50,14-07-2020,USA,48,Prefer not to say,3 per week,SmartLiving,12.10,$2.50 ,Battery,Offline Mode
+Smart TV,Smart Appliances,15.80,04-05-2021,Mexico,56,Prefer not to say,15 per month,SmartLiving,22.80,$42.34 ,Solar,Offline Mode
+Smart Refrigerator,Health Monitoring,9.10,20-03-2022,Germany,46,Woman,7 per week,SoundWave,17.90,$11.93 ,Solar,Disconnected
+Smart Plug,Smart Appliances,6.10,27-08-2024,France,52,Prefer not to say,5 per week,SunTrack,19.80,$17.35 ,Battery,Low Bandwidth
+Smart TV,Fitness Monitoring,20.20,20-09-2023,Mexico,62,Man,5 per week,ViewMax,21.70,$6.34 ,Battery,Low Bandwidth
+Smart Light Bulb,Smart Appliances,12.90,17-01-2024,South Africa,57,Woman,5 per week,SunTrack,4.70,$45.60 ,Solar,Disconnected
+Smart Plug,Fitness Monitoring,9.50,10-01-2020,Australia,21,Non-binary,5 per week,SafeGuard,19.50,$45.06 ,Grid,Connected
+Video Doorbell,Smart Appliances,2.40,14-03-2021,France,33,Prefer not to say,3 per week,PlugWise,7.50,$21.31 ,Solar,Connected
+Security Camera,Entertainment,23.40,05-04-2022,India,37,Non-binary,7 per week,ViewMax,18.60,$46.19 ,Battery,Low Bandwidth
+Home Assistant Hub,Fitness Monitoring,10.80,12-07-2024,Japan,65,Man,7 per week,SafeGuard,14.60,$43.34 ,Solar,Disconnected
+Smart Light Bulb,Security,22.30,16-12-2023,Mexico,45,Prefer not to say,3 per week,ViewMax,4.20,$45.82 ,Battery,Connected
+Smart Thermostat,Entertainment,13.20,21-07-2022,France,33,Woman,10 per month,EcoHome,4.20,$2.43 ,Battery,Intermittent
+Security Camera,Smart Appliances,20.70,08-04-2023,India,43,Man,10 per month,SoundWave,17.70,$46.74 ,Grid,Offline Mode
+Video Doorbell,Energy-saving,1.90,08-11-2024,India,22,Non-binary,10 per month,ViewMax,8.00,$23.78 ,Solar,Disconnected
+Smart Thermostat,Energy-saving,1.50,20-04-2021,India,53,Prefer not to say,7 per week,ViewMax,15.50,$40.01 ,Solar,Offline Mode
+Smart Thermostat,Climate Control,7.30,14-05-2020,Australia,30,Prefer not to say,5 per week,EcoHome,17.80,$9.10 ,Grid,Offline Mode
+Smart Light Bulb,Health Monitoring,0.70,28-04-2021,Australia,29,Non-binary,7 per week,ViewMax,3.90,$24.43 ,Grid,Low Bandwidth
+Smart Speaker,Energy-saving,24.00,21-01-2024,Mexico,33,Non-binary,7 per week,ViewMax,1.80,$40.62 ,Battery,Connected
+Smart Plug,Fitness Monitoring,9.70,30-03-2024,Japan,56,Prefer not to say,10 per month,BrightLife,10.20,$33.15 ,Battery,Offline Mode
+Smart Refrigerator,Entertainment,6.50,25-02-2022,France,33,Man,5 per week,EcoHome,7.70,$14.53 ,Grid,Low Bandwidth
+Smart Speaker,Health Monitoring,16.60,31-08-2021,Australia,48,Non-binary,10 per month,EcoHome,3.90,$7.61 ,Battery,Disconnected
+Smart Light Bulb,Water Conservation,4.10,21-02-2023,USA,44,Woman,7 per week,EcoHome,16.20,$17.37 ,Battery,Intermittent
+Home Assistant Hub,Water Conservation,21.40,18-06-2021,Germany,56,Non-binary,10 per month,SoundWave,21.80,$19.56 ,Grid,Disconnected
+Security Camera,Energy-saving,18.50,05-05-2020,India,23,Man,5 per week,PlugWise,4.30,$7.52 ,Solar,Connected
+Smart Plug,Fitness Monitoring,17.40,07-10-2023,Germany,33,Woman,3 per week,BrightLife,16.80,$49.86 ,Grid,Connected
+Smart TV,Water Conservation,7.80,01-09-2021,USA,40,Man,7 per week,PlugWise,7.90,$7.38 ,Battery,Offline Mode
+Smart Speaker,Energy-saving,24.60,08-11-2020,South Africa,20,Man,10 per month,PlugWise,6.90,$2.39 ,Solar,Disconnected
+Home Assistant Hub,Fitness Monitoring,5.20,28-02-2024,Mexico,59,Woman,15 per month,SunTrack,2.90,$31.79 ,Grid,Connected
+Smart Refrigerator,Entertainment,3.40,05-05-2022,Australia,27,Non-binary,3 per week,CoolTech,11.00,$21.31 ,Solar,Disconnected
+Solar Panel Monitor,Health Monitoring,24.30,09-09-2021,Brazil,46,Prefer not to say,15 per month,EcoHome,13.20,$3.47 ,Solar,Offline Mode
+Smart Light Bulb,Entertainment,9.50,06-05-2022,India,50,Woman,5 per week,ViewMax,2.80,$3.47 ,Solar,Disconnected
+Smart Thermostat,Security,9.80,19-05-2020,Mexico,44,Non-binary,15 per month,ViewMax,18.30,$29.63 ,Solar,Disconnected
+Video Doorbell,Security,23.50,27-07-2024,Brazil,55,Prefer not to say,3 per week,PlugWise,4.70,$47.82 ,Solar,Low Bandwidth
+Smart Refrigerator,Health Monitoring,3.70,13-01-2022,Germany,18,Non-binary,5 per week,RingSecure,5.30,$2.38 ,Solar,Connected
+Smart Thermostat,Water Conservation,14.90,18-03-2022,India,47,Man,10 per month,CoolTech,0.60,$33.81 ,Grid,Offline Mode
+Smart Refrigerator,Security,1.80,14-11-2021,South Africa,27,Man,5 per week,SmartLiving,0.50,$27.72 ,Battery,Offline Mode
+Smart Speaker,Climate Control,8.90,20-06-2020,India,39,Man,3 per week,SunTrack,1.60,$31.78 ,Solar,Offline Mode
+Smart Light Bulb,Water Conservation,11.80,25-09-2020,Australia,35,Non-binary,5 per week,PlugWise,9.90,$38.22 ,Solar,Connected
+Security Camera,Water Conservation,20.40,22-03-2020,USA,32,Prefer not to say,15 per month,SmartLiving,1.50,$16.49 ,Grid,Connected
+Smart Speaker,Health Monitoring,14.00,22-12-2021,India,53,Woman,5 per week,PlugWise,22.30,$44.53 ,Grid,Connected
+Smart TV,Climate Control,25.00,09-12-2020,Japan,43,Man,5 per week,SafeGuard,20.60,$43.15 ,Battery,Connected
+Solar Panel Monitor,Entertainment,15.70,27-09-2023,Japan,61,Non-binary,3 per week,RingSecure,9.60,$39.76 ,Battery,Connected
+Home Assistant Hub,Security,1.70,13-04-2024,India,45,Woman,5 per week,SunTrack,7.10,$44.03 ,Grid,Connected
+Smart Light Bulb,Security,2.60,21-07-2020,Brazil,22,Non-binary,5 per week,SunTrack,19.50,$26.07 ,Solar,Low Bandwidth
+Solar Panel Monitor,Security,3.20,01-08-2021,Mexico,20,Woman,7 per week,PlugWise,18.20,$29.93 ,Solar,Intermittent
+Smart Plug,Smart Appliances,7.10,04-03-2022,Mexico,30,Man,5 per week,BrightLife,8.80,$15.59 ,Solar,Offline Mode
+Smart Thermostat,Energy-saving,9.50,24-03-2022,India,45,Man,10 per month,SoundWave,19.30,$28.35 ,Solar,Disconnected
+Smart Thermostat,Fitness Monitoring,24.80,26-06-2021,France,38,Non-binary,5 per week,EcoHome,5.20,$16.33 ,Solar,Intermittent
+Security Camera,Security,12.90,04-04-2023,Australia,22,Woman,3 per week,ViewMax,19.40,$2.16 ,Solar,Intermittent
+Smart Refrigerator,Security,12.60,28-07-2023,France,29,Man,7 per week,SmartLiving,10.60,$16.56 ,Solar,Low Bandwidth
+Smart Thermostat,Security,19.30,20-10-2021,Australia,42,Prefer not to say,5 per week,CoolTech,10.30,$39.91 ,Solar,Low Bandwidth
+Solar Panel Monitor,Smart Appliances,12.60,26-12-2024,Germany,38,Prefer not to say,5 per week,SunTrack,21.90,$36.30 ,Grid,Offline Mode
+Smart Plug,Energy-saving,11.50,04-05-2023,Mexico,28,Prefer not to say,15 per month,RingSecure,19.10,$41.46 ,Battery,Offline Mode
+Video Doorbell,Fitness Monitoring,10.20,11-09-2020,Japan,27,Non-binary,3 per week,EcoHome,3.80,$2.59 ,Solar,Disconnected
+Smart Thermostat,Fitness Monitoring,11.00,12-12-2020,India,41,Man,5 per week,BrightLife,7.40,$39.26 ,Battery,Offline Mode
+Home Assistant Hub,Water Conservation,2.40,10-06-2023,Germany,25,Man,7 per week,BrightLife,6.20,$33.43 ,Grid,Offline Mode
+Smart Plug,Entertainment,22.20,08-03-2024,Mexico,58,Man,7 per week,SafeGuard,22.80,$32.68 ,Grid,Connected
+Smart TV,Security,3.60,25-09-2022,Japan,57,Man,3 per week,SoundWave,19.20,$2.47 ,Solar,Low Bandwidth
+Video Doorbell,Health Monitoring,3.50,14-06-2020,South Africa,54,Man,10 per month,EcoHome,11.90,$32.45 ,Solar,Intermittent
+Smart Plug,Entertainment,3.30,01-09-2023,Canada,64,Woman,5 per week,SunTrack,2.00,$38.46 ,Battery,Intermittent
+Solar Panel Monitor,Climate Control,10.20,08-08-2024,Germany,65,Prefer not to say,15 per month,SunTrack,14.10,$43.39 ,Grid,Low Bandwidth
+Smart Thermostat,Fitness Monitoring,9.50,24-12-2022,Germany,56,Woman,15 per month,EcoHome,14.60,$46.24 ,Solar,Disconnected
+Video Doorbell,Fitness Monitoring,18.40,04-06-2023,Mexico,28,Man,15 per month,SafeGuard,21.30,$2.69 ,Battery,Disconnected
+Smart Speaker,Energy-saving,5.00,05-10-2022,India,23,Prefer not to say,5 per week,PlugWise,14.40,$2.78 ,Solar,Disconnected
+Smart Light Bulb,Smart Appliances,7.00,09-05-2024,USA,54,Woman,15 per month,SoundWave,14.80,$22.90 ,Solar,Intermittent
+Security Camera,Water Conservation,16.20,03-03-2020,USA,23,Prefer not to say,3 per week,RingSecure,1.40,$14.46 ,Battery,Offline Mode
+Smart TV,Entertainment,7.90,10-01-2021,USA,20,Man,3 per week,RingSecure,4.40,$48.45 ,Grid,Connected
+Smart Thermostat,Security,13.50,14-01-2023,Mexico,60,Prefer not to say,5 per week,ViewMax,3.90,$26.87 ,Grid,Intermittent
+Smart Light Bulb,Energy-saving,23.50,18-09-2020,Japan,31,Non-binary,3 per week,ViewMax,23.50,$44.17 ,Solar,Low Bandwidth
+Smart TV,Smart Appliances,21.50,10-01-2024,Japan,45,Non-binary,5 per week,SafeGuard,19.20,$14.36 ,Grid,Disconnected
+Smart Refrigerator,Smart Appliances,3.60,24-11-2024,USA,31,Woman,7 per week,SafeGuard,7.20,$45.21 ,Grid,Low Bandwidth
+Video Doorbell,Fitness Monitoring,24.00,05-10-2021,Germany,25,Non-binary,10 per month,CoolTech,12.10,$10.99 ,Grid,Low Bandwidth
+Smart Refrigerator,Fitness Monitoring,12.20,20-04-2020,France,61,Man,10 per month,BrightLife,17.40,$24.00 ,Grid,Disconnected
+Smart Light Bulb,Water Conservation,15.50,22-04-2020,USA,53,Non-binary,7 per week,ViewMax,23.40,$48.98 ,Grid,Intermittent
+Smart Thermostat,Fitness Monitoring,24.80,12-08-2022,USA,52,Man,15 per month,BrightLife,0.90,$21.92 ,Grid,Disconnected
+Smart TV,Energy-saving,16.10,27-03-2021,France,44,Non-binary,15 per month,CoolTech,3.20,$23.09 ,Grid,Offline Mode
+Smart Thermostat,Smart Appliances,5.90,07-03-2021,Germany,43,Prefer not to say,3 per week,SafeGuard,23.60,$21.78 ,Grid,Disconnected
+Security Camera,Health Monitoring,20.60,19-11-2020,USA,54,Non-binary,10 per month,PlugWise,8.50,$12.91 ,Solar,Disconnected
+Smart Thermostat,Climate Control,2.70,30-04-2024,Australia,24,Man,7 per week,SoundWave,21.10,$37.33 ,Battery,Offline Mode
+Smart Speaker,Fitness Monitoring,1.10,12-08-2023,Australia,38,Woman,5 per week,SmartLiving,21.50,$19.03 ,Solar,Connected
+Solar Panel Monitor,Security,2.10,08-08-2021,South Africa,28,Man,15 per month,SunTrack,12.10,$11.60 ,Battery,Low Bandwidth
+Smart Refrigerator,Water Conservation,16.80,26-07-2023,Brazil,29,Prefer not to say,5 per week,SunTrack,4.00,$28.41 ,Battery,Disconnected
+Smart Speaker,Security,4.20,05-04-2022,India,51,Non-binary,3 per week,PlugWise,19.20,$41.08 ,Solar,Low Bandwidth
+Smart Thermostat,Energy-saving,12.80,29-03-2021,Canada,44,Woman,15 per month,RingSecure,6.20,$35.64 ,Solar,Intermittent
+Smart Light Bulb,Energy-saving,8.90,05-07-2024,Australia,26,Non-binary,3 per week,PlugWise,8.10,$33.74 ,Battery,Low Bandwidth
+Smart Light Bulb,Health Monitoring,2.40,19-02-2021,USA,36,Prefer not to say,5 per week,RingSecure,17.80,$35.50 ,Solar,Low Bandwidth
+Security Camera,Entertainment,22.00,01-01-2020,Japan,22,Man,15 per month,EcoHome,21.40,$11.51 ,Solar,Disconnected
+Solar Panel Monitor,Health Monitoring,2.00,19-10-2024,France,18,Man,10 per month,SafeGuard,23.00,$46.64 ,Grid,Low Bandwidth
+Solar Panel Monitor,Fitness Monitoring,18.00,06-04-2024,Germany,64,Prefer not to say,5 per week,CoolTech,2.40,$17.29 ,Solar,Connected
+Smart TV,Climate Control,19.00,13-04-2021,Germany,42,Non-binary,15 per month,RingSecure,15.30,$17.88 ,Battery,Disconnected
+Smart TV,Fitness Monitoring,22.10,05-08-2020,Mexico,56,Non-binary,5 per week,EcoHome,10.60,$13.16 ,Solar,Disconnected
